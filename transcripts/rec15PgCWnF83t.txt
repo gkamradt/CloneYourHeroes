@@ -1,0 +1,323 @@
+0:00:00 Ben: Hello, MFM fans. It's me, the artist formerly known as producer Ben. This week, we had a scheduling conflict, so
+
+0:00:05 Ben: the episode is going to come out a day late. It's coming out tomorrow. In the meantime, we wanted to keep you tided over with something from the archives. So today we're playing an episode with Jack Smith. Jack is a founder. He sold an ad tech startup for hundreds of millions of dollars. He's really successful. He's one of these wild indie hacker types who's always got some interesting kind of weird project going on. So on this episode, he talked about his big payday, Wall Street bets. Oh yeah, remember that? VCs in the media game and much more. It's a great episode. Jack's a really interesting and thoughtful guy and he's coming back on the show next week so we thought it might be helpful to catch up on what he said last time. So please enjoy this episode from two years ago with Jack Smith.
+
+0:00:45 Sam: I
+
+0:00:49 Intro: feel like I can rule the world I know I could be what I want to. I put my all in it like no days off. On the road less
+
+0:01:09 Shaan: What's up? We got Jack here. Jack Smith.
+
+0:01:12 Jack Smith: How are you, man? Good. How are you guys?
+
+0:01:15 Sam: So spoke at House of Khan where I met him years ago, started this company called Vungle, which sold for like what $750 million. It's like an ad thing, which we're actually going to talk about today. Started Ship, which raised a lot of money, got a lot of hype. And what happened to that?
+
+0:01:30 Jack Smith: Went to zero.
+
+0:01:31 Sam: Went to zero. So you win some, you lose some, but you won a major one. The reason why you are here is because we want to talk about Taboola. At least I do for a second. But before we get into that, Sean, you invited me to this thing called Apex, right?
+
+0:01:45 Shaan: That's right. And you did it all wrong. Yeah. So, okay, we talked about it on the podcast. It takes is like a supposed to be like a digital masquerade party. So you're supposed to show up, you pick a new name, that's your mask. Nobody knows who you really are. And then you come in and it's kind of like it's a private group, but nobody has a real name. So you can kind of the idea is you speak more freely. But of course, Sam first joins the thing like two weeks late, then he's like, what's Apex as if we didn't talk about it?
+
+0:02:15 Sam: No, I knew we talked about it, but I hadn't used it before
+
+0:02:18 Shaan: so he joins and then he uses his real name And then he goes on it says hey guys, it's Sam What's up? I'd love to hear your feedback like it's a fucking Facebook group Which we already also have the
+
+0:02:28 Sam: reason I did it was I was browsing it good I I didn't bother to actually look but I was looking now. There's only like 500 members people were saying like nice stuff that's great. Some people were saying really mean stuff. Is that crazy?
+
+0:02:40 Shaan: Yeah, dude, that's what it's supposed to be. That's the juiciness of a pseudonymous platform. Let them say what they want.
+
+0:02:48 Sam: Someone said a thread, who do you like better, Sean or Sam? And they just shit on both of us for the stupidest stuff.
+
+0:02:54 Shaan: Both of us, yeah.
+
+0:02:56 Sam: It's okay getting negative feedback. They did some mean stuff where I'm like, why does that even matter?
+
+0:03:01 Shaan: But don't you just want to know what's actually in people's minds? Like, I love knowing what's actually in people's minds, even if it is like, it's some random point or it's really mean. It's like, that's the stuff you never hear. Like, there's positive, there's compliments, there's constructive feedback. And then there's just the shit people really think about you. So this is the way to see the shit people really think about you.
+
+0:03:20 Sam: Do I tell a story about using a pogo stick a lot?
+
+0:03:24 Shaan: You did it once. I think it's because you have all these like random skills slash hobbies. And so each time it's a different one, it'll be like, I can dunk, I can skateboard, I can ride a pogo stick. I used to run track, like you always have like a thing like that. So that's what they were making fun of.
+
+0:03:40 Sam: Someone made fun of me for like, he's like, I get it. You sell hot dogs and you're good at the pogo stick.
+
+0:03:44 Shaan: Yeah, I thought that was hilarious.
+
+0:03:45 Sam: Me too. That was a funny one. That was a good one. That was a good way to make fun of me. But people said some other.
+
+0:03:51 Jack Smith: So what is this? It's an app that's a group for the podcast listeners.
+
+0:03:56 Shaan: I think this app can take off. So it's an app that I discovered called Apex that it lets you host this, these types of private masquerades, these private groups. I got invited into one that was super interesting. So then when I was telling that story, I was like, oh, we'll, we'll make one for this, this group for listeners and we'll put the link in there. And then it got hundreds of requests. And I was like, dude, I'm not going to go through and approve all these. Because to get in the door, you have to link your like, I made it where you have to show social ID like at the beginning. And then after that, you can't see who's who. But like at the beginning, you could just make sure that they're not like bots or spam. The developer who made the app, he went, I was like, can you just auto accept all these people? And he just went and did that. So now there's like a few hundred people in the group.
+
+0:04:36 Jack Smith: Did you guys see, you know, the Balaji guy? Yeah. Yesterday he tweeted, he's got a thesis that in 20 years, you won't know what most people actually look like because on the internet everything will just be anonymous.
+
+0:04:51 Shaan: I believe that. So first, I'm pretty sure in my first group that I got invited to, I'm pretty sure Balaji is in there. You can kind of tell when people talk because they say some ideas that really, you know, and he's such an original thinker that like, if he's saying it's either somebody just parroting what he says or Tim. And I know he's friends with some of the people who started the group. So I think that is him. But he's been saying this for a while. And actually, just yesterday, I went back and I watched maybe five different YouTube talks of his because I went for a hike and I just put his YouTube talks on from back in 2013. He has two like big ideas. So one of them is what you're talking about, which is separating, you know, your real identity from your work identity and your public social media identity. So he basically thinks the way that we treat like our social security number, that's how we're going to treat our real name and face. It's not going to be something you give out unless you have to. And you use that to like create accounts and those accounts have their own usernames. So when you go to work, You're not going to be Jack Smith with your face. You're going to be, maybe you're called like, you know, growth guy 33 and your growth guy, 33, you work, you know, for some company. And when you show up on zoom calls, you're not going to show your face. You're going to show like an avatar or something so that you can basically have a separate identity. And he called this five, six years ago because he's like, he's like social media is turning into a mob and people are gonna start getting, he didn't say the word canceled, but he was like describing cancel culture. He's like, you can just say something on Twitter and you could lose your job for it. That was your personal opinion and your free time on your social media. And that's affecting your career. He's like, so these things are all going to split. Your communications name is going to be one, your work identity is going to be another. And then your real thing is going to be like your social security number.
+
+0:06:28 Sam: Do you remember last week or a few weeks ago, a few months ago, where we shared that Kevin Sistrom, like selling Instagram for a billion dollars, all being, not all, but negotiated via text message, like messenger or something. Right.
+
+0:06:42 Shaan: And then leaked. Yeah.
+
+0:06:43 Sam: Yeah. Jack and I, I know do this with our friends. And I guess what I'm getting is, do you, I don't know if you do this, Sean, I know me and Jack do this. Do you have friends who you rarely or if ever have met, but you consider one of your closest friends and you only communicate via a texting version?
+
+0:07:00 Shaan: Yes, I have people like that, that I met on Twitter, then I went to Twitter DMs, and then I went to like iMessage or Signal. And you know, they've called me before and like, you know, I've hung out with them either zero times or one time in my whole life, which is weird, by the way, right? It's a weird thing.
+
+0:07:15 Jack Smith: So just to add to that, like, as you were saying that Balaji called this six years ago or whatever, well actually I had read this book last summer that it was written in 1981 and it basically describes this concept where this is like pretty much even before the internet and stuff. It's called True Names and basically the concept is that your most valuable thing, even beyond your social security number, is your true name. These people live, they basically spend all their life in virtual reality and their friends, they have no actual idea who they are. And even though they're friends, like, if they want to get real power over someone, it's when they find out what their actual name and identity is. And these guys then are like, because they're like so powerful and stuff. And then so it's pretty interesting that, yeah, even like 30 years ago, this guy was predicting this.
+
+0:08:04 Shaan: Do you guys think this is because he's a futurist, right? So first of all, everything he says, I think of him like somebody who literally is a time traveler, like he comes back in time and he says something to me and I'm like, okay, even if I don't understand this, this is just what the future is. I just don't know if it's five years, 10 years, 25 years from now.
+
+0:08:23 Sam: He's crazy, not necessarily a bad way. But I think he predicts a lot of stuff and he's definitely right sometimes. But Those types of people are probably wrong more than right.
+
+0:08:32 Shaan: Sure, sure. I'm not saying he's right all the time. That's not what I mean to say. I mean, the things he says, they sound so foreign to today because he focuses on the future and like kind of like the deep future and the radical future, not like small incremental changes, but like what would the big shifts be? And there's one school of thought, which is like, you're never wrong, you're just early. For a lot of these predictions, like your guy who wrote this book in 1981, right? Like you're wrong until you're right for a lot of these big ideas. Like the idea of Bitcoin, this universal currency, that's actually been around for a while, and then it was wrong until it starts to become right.
+
+0:09:05 Sam: I believe in it. Did you guys read the book American Kingpin, the one about the Silk Road?
+
+0:09:09 Shaan: I haven't read it, but yeah, I'm familiar with it.
+
+0:09:11 Sam: It's awesome, so you should read it, it's awesome, it's so fun. But anyway, Silk Road was a multi-billion dollar enterprise. All of his employees, obviously, because they couldn't reveal who they are, they were only identified by usernames, and they had no idea who they were, and they paid each other. And I was reading about it. It was a pretty harmonious work. It was a good work environment, and it was only username-based. And people got paid, and they had meetings. It was incredibly fascinating. So yeah, I buy into it.
+
+0:09:38 Shaan: Did I tell you about the conversation I had with one of the early developers of the Silk Road?
+
+0:09:43 Sam: One of those guys?
+
+0:09:43 Shaan: No. What? He listens
+
+0:09:45 Jack Smith: to the pod and he reached
+
+0:09:45 Shaan: out and he's, uh, he's like, hey, this is who I am, confirmed his identity. And he's like, I was one of these people. If you Google my username, you'll see all these articles about me. He's like, I just, you know. And so I can't say too much, but I talked to this guy for a while, fascinating guy. I can't say too much, but basically, he was a fan of the podcast. Okay, so I'll tell you something crazy. And I got to ask him what I can say. We don't have to just delete this.
+
+0:10:16 Ben: Wow.
+
+0:10:17 Shaan: If we cut it out, just know if you're coming back in right now in the recording, we just talked about some crazy shit that we had to cut out.
+
+0:10:22 Sam: Sorry. Here's what I want to talk about. This is not that interesting on the surface. But I figure Jack could give us some intel perspective. So to pull up you, Sean, you told me you don't find it to be that fascinating. Neither do I, to be honest. I think that it's kind of like a shitty, not shitty, I wouldn't enjoy working there. But basically, it's like those small, square thumbnail ads at the bottom of a CNN article. And it says like, 80 year old still looks like he's 50, here's how. And you click and it goes to an article that explains why this supplement is great and then a small percentage of people buy it. The company just filed to go, no, they did a SPAC, which is obviously all the rage, but they released some numbers. And so they do about a billion dollars in revenue,
+
+0:11:08 Ben: 350
+
+0:11:09 Sam: million of which they actually get to keep. So they pay out a billion dollars to the publishers and they get to keep
+
+0:11:15 Ben: 35%
+
+0:11:15 Sam: of that. So they have $35 million in revenue, hundred and something million dollars in EBITDA. So these are crazy profitable businesses only valued at two and a half billion dollars, I think. So not valued like crazy high yet. The reason why interests me is Vungle. I don't know. I'll let Jack say if he wants to say any numbers. Was like, kind of like that, too. And then Sean, you're what's his name? Furcon. One of Sean's best buds who's been on the podcast started a company that's probably even bigger than Vungle and Taboola combined. These are crazy fascinating to me because like they kind of seem like these ad tech businesses, they kind of seem like magical a little bit like it's hard to very hard to make
+
+0:11:55 Shaan: magical money printers. Yeah, Jack, what do you think?
+
+0:11:58 Jack Smith: Well, I don't know if it's necessarily hard to make, but What makes you think that it's hard to make sense?
+
+0:12:03 Sam: I guess we talk about a lot of basic ideas. We talk a lot about direct to consumer stuff. So like Gymshark or something that does just a slightly better marketing. We don't talk too much about software. We talk about collectibles, like it's mostly like hard goods. I just think that there's something a little mystical about an ad network because A, like ads online is one of the biggest industries there is. B, it's like always in the background, but it's kind of forgotten. And C, some big players control it. It's just, I don't know, you don't agree with me that it's a little bit like mythical, like, you know what I mean? Like, there's some mysterious bit about it that a lot of people who are insiders have no idea how it works.
+
+0:12:42 Jack Smith: I think it is quite unique in terms of it's one industry where it's very easy to make sizable revenue, right? Fungal, there was a number of other companies started around the same time, which also got to hundreds of millions in revenue. So advertising, I think, is a way that you can make a sizable amounts of revenue. It was actually harder to raise venture capital funding for it, though, because like venture investors are like, oh, I hate advertising and for whatever various reasons.
+
+0:13:13 Sam: Tell the story really quick about how you actually got came up with this idea for Vungle?
+
+0:13:19 Jack Smith: Well, basically we were working on a different idea, which was really shitty idea. It was basically an app store where every app would have a video showing what it did instead of just screenshots. So it was cross-platform App Store. And then the idea that this was not really going anywhere. And we were at this incubator called AngelPad, and there was basically just about four or six weeks till demo day. So we just had to come up with a business idea. And so in the space of two weeks, we basically just prototyped six different business ideas. I created fake landing pages for each one and just tried to sell them. The main takeaway that I had from this incubator is that the guy told us, hey, I want you to go and call 20 of your prospective customers. So for us that was app developers and he said don't pitch them, like don't try and sell your idea, just ask them what is your biggest challenges in your day-to-day life. So we called these guys and they were like, hey, we're engineers. We know how to build an app, build a game, but we don't know how to get users for this. So then we were like, okay, let's try out six different ideas. So one of them was like how to get reviews, like get on app review sites and stuff. We tried selling it for like we were like, hey look, this is normally going to cost $150, we'll give it to you for like $20. People told us like, oh yeah, love this idea, it's great, I'll sign up as soon as I get home. We got like zero sales. People were just telling us the idea is great, they didn't actually want to sign up. Tried out all these different ideas and then actually serendipitously went into a meeting with an investor and we wanted to record the meeting. So we were like, hey, is it okay if we just record this? Opened this like sound recorder app and it started like auto playing on full volume like some video for coke. Like we're trying to close it up, what the fuck. But then we actually just thought like, hey wait a minute, what if we had videos like this but like advertising other games and other apps instead of like Coke stuff. And so we went to those prospective customers who said, hey, what if you could have like a movie trailer for your Apple game shown inside of other apps or games, like 15 seconds. People were like, oh, I love this. I want to be your first customer. Put me down for like $5, 000, $10, 000 ad spend as soon as you're ready to launch. I want to be the first customer. So they were throwing money at us. So then we knew that, all right, this is a good idea. But actually, when we told the guy running the incubator that we had come up with this idea. He was quite early on at Google and stuff. Basically, he said to us, like, I just went on a whiteboard and I was like, yeah, it's kind of in the past week, kind of this is what I, how I think mobile advertising and advertising works. Like you kind of have games that want to get users and these other games will want to get paid so we can show ads in there. The guy basically stood up and he just like slams his hands on the table, he's like, you guys don't have a clue about advertising, you just looked this up on Google in like the past week. There's people at Google and Facebook ads who have like 10 years experience in this. And you think that you can disrupt this because you just Googled this like five minutes ago. And then so actually I remember one day just like being in the toilet and then just like late at night because we stayed late.
+
+0:16:33 Shaan: As a figure of speech or you were literally taking a shit?
+
+0:16:36 Jack Smith: OK. Actually, like at 1 a.m. In this shared office space, everyone else had gone home and I'm just by myself. And I'm thinking like we did what you told us to do. We went and spoke to the customers and asked what their pain point is. He was trying to push us to a different business idea. And so we, we actually just like had to basically stand up to him. And then we said, Hey, listen, I know you really want us to go in this direction. If you do this idea, you're not going to get a single dime of funding. This idea sucks and you have no experience in it, you don't know what you're doing. And we said, listen, we really do value your advice, but we followed what you said and we think there's a pain point here, so we're going to go with this. And then we kind of make fun of him, like a few years later about that. But actually at the time as well, he introduced us to another company in the space. I remember we were meeting with the founders, we'd just come up with the idea and the founders like, oh yes, so what technology are you using to power this? You're using RTMS or the VivaVir? We're like, I have no idea what you're talking about. But actually, it gave us a refreshing perspective because we could just think about things from the needs of those app developers.
+
+0:17:44 Sam: And when it and when Fast forward to a couple of years when it sold, how big was it?
+
+0:17:48 Jack Smith: When it sold, I don't know the exact numbers, but hundreds of millions in, as you described it Taboola, like gross income. And then you pay out, let's say like 40% of whatever the money goes to the publishers. And so you keep 60% so in the hundreds of millions of revenue.
+
+0:18:06 Shaan: There's a tweet I put out the other day that's like one of these fortune cookie tweets, but I think it's true, which is if you, if you want to know how something works, you ask experts. If you want to know how something is going to work, you ask a beginner, basically. So the idea is that experts can describe how things already work, but they're not great at describing how things could work or should work in the future. And that's where the beginner's mind really helps.
+
+0:18:28 Sam: So one thing I've been thinking about, so Taboola works because they go at the bottom of, who knows, hundreds of thousands of websites. They must get like a billion impressions a month. I don't know what it is, but it's a lot. One thing that you and I had always discussed was we're like, we should create a Taboola for email. And There is something almost like that live intent. I think it's pretty shitty. But with the rise of email, I wouldn't call it the rise of email, but it's it's popular right now. What's holding someone back from making this work for email? You think lack of impressions or what?
+
+0:18:58 Jack Smith: Emails obviously been around a long time. Maybe if I was to look for opportunities I maybe wouldn't be looking at email. You could often maybe look at like more emergent platforms like Clubhouse for example. There's no monetization around that right? Because email it's just been around a long time, I guess, but that doesn't rule it out. Maybe one of the bits is that email obviously is an open protocol, but it's somewhat closed in terms of the only tracking that you have is if someone views an image and stuff. And then the kind of trend is to like block those things, like, hey, app like blocks all the track, open tracking and blocks like images and stuff. So that's like one limitation. But yeah, you could do it. I guess the main bit was size of email newsletters and how many can you sign up? And probably the impressions it's going to generate is still a lot smaller than Taboola can because Taboola has the whole internet as a target market.
+
+0:19:56 Shaan: And you guys had mobile apps, which was new and going to be huge.
+
+0:20:00 Jack Smith: Because the thing is, most email newsletters, their numbers that they report are probably kind of fake, right? I mean, I have 10 million subscribers, how many of them actually read it?
+
+0:20:10 Sam: So there's an equation for any ad business. I'm just making this off the top of my head, but I would have to think about this. But value is equal to number of people multiplied by the quality of people. A 12 year old is not gonna be the same as like a 60 year old high earning doctor. So quality times quantity times the amount of page views that you get per person. I mean, is that about right?
+
+0:20:33 Jack Smith: Well, I mean, again, you can't say you can't generalize that a 12 year old is not as valuable as a six year old surgeon because actually, like in games, that could be the most valuable user is a 12 year old with their mom's credit card buying FIFA Game Pack stuff. But basically, the way we saw it is, how can you make the most money for the publisher? And that is by providing the most value for the advertiser.
+
+0:20:57 Sam: Volume, you said?
+
+0:20:59 Shaan: Value.
+
+0:20:59 Sam: Value. Which is low cost per click.
+
+0:21:02 Jack Smith: No, no. So this is the thing, like, Thungood did differently as well, is it was one of the first ones, the first advertising places to ignore that. So how the industry was before, it was kind of done, as you're saying, like it was charged like TV ads, CPM, cost of people that watch this. And then when we thought about it, we were like, wait, this app doesn't care how many people see their ad, they just want users. And so we were one of the first to charge CPI, cost per install. So we were like, hey, it doesn't matter if like 10 people watch the video or like 100, 000, just pay us a dollar every time someone installs something. So I think you need to abstract what does the advertiser actually want? They don't want clicks. They don't want impressions. If they're D2C, they want sales. They want revenue. That's all they care about. The other stuff is layered on top. They're like false metrics that kind of abstract or they have to do calculations to compute their core metric.
+
+0:22:00 Sam: Is there anywhere in the ad space that even remotely interest you now? Or are you completely over it?
+
+0:22:05 Jack Smith: People also said to us when we started like, Oh, how did you get interested in ad industry? We were never interested in advertising. We were just solving a problem that we observed as the most compelling problem in the mobile app industry. We were interested in mobile apps. We launched 12 to 18 months after the iPhone app store had launched. We got perfect timing in a high growth market. I actually had read about iPhone apps in a Gartner report. People kind of shit on Gartner reports, but actually that's where I saw these trends like, hey, mobile apps, iPhone apps are exploding. And this was the biggest problem in that industry. So it's not that I find advertising interesting or I'd be searching for an advertising business. I would be searching for what are the emerging industries and trends and what are the biggest problems in that. It might be that advertising is a big problem in that industry, but I wouldn't be searching for an advertising solution.
+
+0:22:58 Shaan: What's the next mobile apps?
+
+0:22:59 Jack Smith: I don't know, right? That's the challenge. It's like once in a decade.
+
+0:23:02 Sam: Yeah, you mentioned Clubhouse. I guess we haven't talked about it too much. Sean and I I think actually this could be a good story. So our friend, I don't know how Sean you got looped into him. But Narendra is this guy named Narendra, who's a friend of mine. He listens to the podcast and thus became friends with Sean and he has us all in a group thread. And he texted me a link to clubhouse. I think I was like user like 400 and I like logged in and I was like, this is so stupid. I hate this. It's just a bunch of Silicon Valley people. It's so lame, Narendra, this is dumb. And he kept telling Sean and I, no, this is cool. It's gonna be a thing. And like, anytime controversy or something, he goes, look, guys, log in. Like, listen to what these guys, I was like, oh my God, I don't want to be part of this. This is so dumb. Well, he kind of called it.
+
+0:23:45 Shaan: Well, there's news, right? So they just raised money at a billion dollar valuation, probably less than a year since launching their test flight. So that's kind of amazing. Sam, do you still think it's stupid or you have revised your opinion?
+
+0:23:58 Sam: Well, obviously, I'm I'm wrong.
+
+0:23:59 Shaan: No, no. For you. To you. Do you like it now or do you not use it?
+
+0:24:02 Sam: I don't like it.
+
+0:24:03 Shaan: Jack, do you like it?
+
+0:24:04 Jack Smith: I don't use
+
+0:24:05 Sam: it. I thought no one would like it. And objectively, I'm wrong.
+
+0:24:08 Shaan: I knew people would like it because we had built Blab and Blab was so similar to Clubhouse. And there's differences, right? Like, you know, There was no pandemic happening during Blab where people needed to connect. Kind of like the whole world. You know, my mom does Zoom calls with the family now. Right. Like, so everybody searched for some digital solution to talk to other people. So that was different. We were also, you know, video and Clados' only audio. And that's, you know, could be a difference. We saw very similar things, which is that like some group of people, the Norendos of the world, they will make friends with a whole bunch of like semi strangers who they start to get along with on the platform. And then a bunch of inside jokes emerge. And then this habit forms where they start every night, 8pm, they just want to see what's going on. They get the notification that four people are talking and then they join in and, oh shit, four hours have flown by, six hours have flown by and I'm still on Clubhouse. And like, wow, this is kind of addictive. And I still don't think this is going to work. In fact, I was debating a friend. I have a friend who's an investor in a bunch of social companies that were like the big winners, right? Like the, I can't say what companies will give him away, but like, you know, many of the multi-billion dollar social networks. And I said, you know, are you a believer? And He said, I said, would you invest at this valuation? Because I think investing in a billion dollar valuation, I wouldn't do it right now. The first round was at a hundred million dollar valuation. I also wouldn't have done that. He said, yeah, I would. It's a, you know, asymmetric bet, meaning small chance of success, but the success would be so huge. It's still the right bet to take. And I was like, yeah, but you can kind of talk yourself into that for like any social product, right? Sure, if the social product, if Apex works, it's going to be massive. But if it doesn't, it's, you know, you just lose your size of your bet. And he's like, yeah, but like this has a bunch of things that might actually work. And I was like, cool, I think I'm just too jaded. So my own failure with Blab has made me think that this can't work. And I think that's kind of a dangerous position to take.
+
+0:25:53 Sam: When they announced this round, it says there's a million subscribers.
+
+0:25:56 Shaan: Yeah, we hit 4 million, right? We had four and a half million when we shut it down. Those were all active. That was like total users within, and it was, I think, 16 months after we started. So you just had
+
+0:26:05 Ben: 4
+
+0:26:06 Shaan: million users. And I think on a monthly basis, we had 400, 000 active. That's why we knew this is not going to work because 10% of your user base being active every month is too low. And we also knew that like, the problem with some of these apps is, it would be one thing if everyone was using Clubhouse with their friends, right? If we were using Clubhouse to shoot the shit, because oh, Sam's in Austin and Jack's in somewhere else and Sean's in California, You know, we need the clubhouse to bring us together. That will grow like crazy because everybody will invite their friends or their family to the app. The app will grow like crazy and it'll be super sticky. But apps like clubhouse and what Blab did was the fun was meeting a whole bunch of new people that you were hanging out with. Now The problem with that is that doesn't scale because you're not bringing your friends to the network. You're coming to the network to make friends. That's why Narendra likes it. He made a bunch of friends. Like if you go on and see the rooms he hangs out with, I bet you those are people he's never met in real life. Like they're cool people. They're people who has things in common with, but they were not his IRL friends. And so because of that, you don't grow virally because people aren't bringing their own friends. And then it's also not sticky for most people because most people will have the reaction you had, Sam. You go in and you're like, if you don't immediately find a live chat room that's interesting to you, and also you don't have like the time and the bandwidth because it's like, well, there's no editing, right? So it's got to be like good right away and get to like something that hooks you. Otherwise, you're going to bounce and you do that three times. You can be like, why am I opening this app? I should just open Instagram. Every time I open Instagram, the top photo on my feed is on point. It's awesome. Even if that photo was taken three days ago, but the algorithm knows this is juicy. You're going to get some dopamine hit of like pleasure or laughing or whatever from this photo. And here's the next photo, next photo. So that's the thing that those apps have that apps like Clubhouse and what killed Blab, they don't. So I would still be betting heavily against it. Now that's not a cool position to take because like who, what's the fun in rooting against a startup? Like there is no market for me to go short the startup or bet against it because everyone's like, yeah, duh, like it's hard to build the next Twitter, but like, maybe this can be it.
+
+0:28:05 Jack Smith: We might do you guys remember meerkat? Yep. Yeah, that was just as trendy as this, right? I think part of this valuation is just the market environments for funding at the moment. So I mean, Meerkat would probably have raised a billion dollar funding when it has peak as well. So I think it's just too early to call it. I do agree with what you're saying, Sean, that what I don't like about it at the moment and what I think will be a challenge is that all of the content is ephemeral, like it just disappears, right? Other places, as you said, Instagram, Twitter, this content is like evergreen. Like I can see a tweet from like six years ago, maybe Balaji sent out that thing six years ago and I can like it and resurface and it's evergreen content and they're getting more and more content all of the time. This, they need to make sure the content is A-star at every minute of the day.
+
+0:28:49 Shaan: Which it won't be, right? So this is the thing. I went to a brunch. I think you were there, Jack, actually. Those James Currier brunches that he used to throw, the NFX brunches. I went to one of them while we were working on Blab. He was one of the lead investors of Meerkat. He was one of the guys who helped Meerkat figure out what it was going to be. And I talked to him, I was like, man, we're hitting this problem, Meerkat's hitting this problem. Everybody on the outside thinks this space is so hot, but all of us on the inside are fucking panicking because we know how hard this is to get users to stick around when it's live, unpredictable content. And he was like, yeah, he's like, he drew this like diagram with his hands. He goes, think about it this way. Every network, every app that you're going to open has to be interesting. So there's like this interestingness scale. You got to be high on the interesting scale. He's like, and YouTube has this problem. Instagram has a problem. Pinterest, Facebook, everybody's trying to show you something interesting. And they have like millions and billions of photos to pick from, but they're, you know, they're going to show you something interesting. The algorithm does that. The problem with meerkat and Blab and all you guys is then you cross section that with something that's super interesting that's happening right now. And that right now problem, the evergreen problem you're talking about, it doesn't make the problem two X harder or four X harder. It makes it like two million times harder. And that's the main problem. That's the one reason that really Twitch is the only live network that has worked, unless you count live TV, which I guess is a different sort of outlier with like highly premium produced content. And so Twitch is the only one where it's users creating content live and it actually works. And one of the reasons why is because when you're streaming a game, the person can kind of just come in whenever there was no beginning, middle and end of a conversation. You just hop in, they're playing the game and you're going to leave whenever you want. And the streamer stays live for like eight hours straight. So the interesting people are online for eight hours a day, because playing a game is easy. You can actually do it for eight hours, whereas talking on Clubhouse for eight hours would be impossible to be interesting for eight hours. And so that's the problem with apps like Clubhouse. And that's why like the fundamentals to me don't make sense. I think the valuation and all this stuff is for people who don't really understand what's happening and how hard this type of network is to make.
+
+0:30:53 Jack Smith: I don't know, the valuation, I'm not that concerned about. I did see another tweet, someone, a Googler, asked Eric Schmidt when he was CEO, I don't know if you saw this, at the time they bought YouTube, he's like, did we buy YouTube for the right price? People are saying it's a bit expensive, like 1.5 billion or whatever. He said, no, we definitely didn't buy it for the right price. It was either way too cheap or way too expensive. Ask me in 10 years. So I don't think this 1 billion matters. It's a binary bet. It could get massive.
+
+0:31:21 Shaan: YouTube was already working. YouTube was already massive. It just might have died because of the, you know, all the copyright lawsuits that they were getting hit with.
+
+0:31:29 Jack Smith: Instagram was pretty early when it got bought by Facebook and stuff, right? I mean, not as early as this.
+
+0:31:35 Shaan: Instagram was also sticky. And again, the fundamentals of Instagram, you could see why that would work. You knew that people viewing photos on a feed, that works. Oh, these guys have done it well on mobile. And they're faster than Facebook on mobile. They sort of built Facebook for mobile. And so Facebook buying them made sense. I haven't seen the data, so maybe I'm wrong. Maybe Clubhouse has some amazing retention metrics that have defied the odds of all the others of us who have tried something similar, I doubt it.
+
+0:32:02 Jack Smith: I think stuff points towards it not working. I'm just saying, they're not judging the valuation based on data probably too much at this stage, right? It's like, oh wow, this seems that this is a big opportunity thing.
+
+0:32:14 Shaan: That means if it becomes a
+
+0:32:15 Ben: $10
+
+0:32:16 Shaan: billion company, you only 10 extra money. And I think that the risk reward there is so far off that, you know, to me, this is an example of investors, you know, just wanting to be the one who gets the hot girl at the dance. You know, like Clubhouse is the name everybody knows, and you can sort of talk yourself into it. Like becoming a $10 billion company is no fucking joke. You know, like I think Snapchat when they went public were what, 10 or 20, like max? And that was 10 years in. Not to shit on him because he seems like
+
+0:32:43 Jack Smith: a great guy in some of his writings about his growth expert. But Andrew Chen has had a couple of big bet failures. Like he joined Andreessen a couple of years ago. His big bets are things like Atrium, which like died like 12 months later. Like I can't remember his other bets, but some of them have like died.
+
+0:33:00 Shaan: Yeah. And I think he was also in Secret, which was like probably the last big social app to do this was Secret, where Secret comes out, it's in a small number of people's hands, it's super interesting. And the tech guys love it. And, you know, raised at $100 million valuation, Boom, just like Clubhouse did. It didn't get to that next one at the billion. Yik Yak did, but Secret didn't. And then both of those died because of kind of fundamental problems which were around, you know, like, you know, fully anonymous networks.
+
+0:33:26 Jack Smith: What's interesting to me is like, I just don't really invest much in consumer apps because I just don't get it. And I think what is highlights that the most to me is that Sequoia and I can't remember the other firm, but they are investors in WhatsApp, like the biggest consumer exit of all time. They're also investors in things like secret. So if these guys that have massive teams, they're looking at all the data, they're going to the board meetings of WhatsApp, they have all of these data points. If even them can pick a consumer app that like implodes like 12 months later, How am I going to be able to pick the winner?
+
+0:34:02 Sam: We talk a lot about a lot of cool stuff on here, but we never really talk about the social network, like these like poppy fun things. Is that what you say it's because you, Do you just hate that now? Because you see-
+
+0:34:17 Shaan: No, no. So I'm not like, I don't hate it. I am probably too scarred by it. So like I'm scarred by it to the point where I would never go try to build another social app. I think it's like just in terms of the risk reward ratio, I guess there's just so many better ways for me to have success than to try to be the genius who catches lightning in a bottle. You know, the lottery ticket winner who really comes up with the next Snapchat, the next Instagram, the next Pinterest, whatever, right? Like I would love it, but damn, that's hard. And there's just so many other ways where I have a much higher chance of success. So I wouldn't do it again. But I love thinking about it. I love talking about it. I love using these apps. I try all of them, right? Like I enjoy them and actually enjoy using Clubhouse sometimes. I actually thought that the real value of Clubhouse was for anybody who was on it during the first like three to five months, you could meet every single interesting person in tech or even like Hollywood. Like I had conversations with NBA players on there. I had conversations with, you know, Scooter Braun. I had conversations with, you know, from kind of like Justin Bieber's manager. All the tech people were on there. The VCs, again, I tweeted this yesterday. You can't get a meeting with these guys. If you try to schedule them, their EA will say, you know, they're booked till March. How's the third week of March for you? And then you have to fake also being busy and be like, let me check. Even though, you know, you have, you know, you don't schedule three months out. And then that guy will be on Clubhouse for three hours that night, you know, shooting the shit, doing nothing. So like it was the best way to build your network and build your kind of friend group. And what even one connection that came out of Clubhouse could really change the trajectory of your life because all the people on it early on were heavy hitters. And then now as it gets kind of like more opened up to more people because they want more users and now, you know, they send me a message that says you have 30 invites. It's like, OK, they're trying to juice growth. They're trying to try to accelerate growth. Now that value is gone. So I don't think it's that interesting anymore.
+
+0:36:02 Sam: So I know Jack has to leave probably pretty soon.
+
+0:36:05 Jack Smith: Sorry, Sam. I was just going to say, like, if there was anything else you wanted to talk about with the tabula thing, there was one or two points I had in and also kind of felt like you should mention GameStop today. I don't know if you've been following it, but the craziest.
+
+0:36:17 Sam: Yeah, go for it.
+
+0:36:18 Shaan: Explain what's going on for people who don't know.
+
+0:36:20 Jack Smith: Well, with GameStop, I saw a chart saying that trading volumes for stocks are approaching what they were in the dotcom bubble. Basically, if a GameStop, BlackBerry, and like some of these other junk, what the professional investors would say like junk, the fundamentals, like these are dying stocks, like GameStop is like a Pokemon card store basically at the moment is dying. So hedge funds were basically saying, hey, we think you should short this stock, like the numbers are trash. People on Reddit in this group, WallStreetBets, they basically clubbed together and they were like, hey, let's just screw these hedge fund guys and let's just pump this stock. Now, GameStop, the guy, this other actor, the founder of Chewy, had become an activist, invested like six months ago, just saying, oh, I think I can improve them. He invested 75 million. It's gone to over a billion in six months. The stock was up at one point over like 100% today alone. Like if you look at the stock chart, it just went up like down. That's a straight line.
+
+0:37:23 Sam: It's a 1200% gain, 1700% gain.
+
+0:37:25 Jack Smith: Well, I mean like 100 plus percent today alone because everybody is like just buying like options calls that expire on Friday because basically what happens is all these people shorted the stock, but then if the stock goes up, they kind of have to cover their short positions because everyone's pumping this one stock, basically treating the stock market like a game. Kind of funny to see, but like, yeah, is approaching like dot com bubble levels of stuff because people were posting like really scientific sounding stuff in on the Reddit group. Like, oh yeah, this is called like a quantum short freeze where there's not enough stocks and innocent like they're basically chatting shit. If people even knew they were chatting shit in the comments, they were like, you formatted your post very professionally with like bullet points. Sounds legit. I'm in.
+
+0:38:09 Sam: Right.
+
+0:38:09 Jack Smith: And then they're posting screenshots that they just put in like a hundred thousand dollars
+
+0:38:13 Shaan: by order.
+
+0:38:13 Jack Smith: So it's kind of like the dot com thing where everyone was just buying stock, any stock that was called dot com. Now everyone's buying, oh, someone's shorted a stock. Let's just pump it. Like hedge fund people are saying, short this, let's just buy that.
+
+0:38:27 Sam: Do you think that this is all from Robinhood that these people are using?
+
+0:38:30 Jack Smith: Like Blackberry, etc. Like Even they're putting out announcements like, we have no material news why our stock is up 40% today. Because even though Robinhood uses, you'd think like, oh wait, they maybe don't have as much money as hedge funds. So how can they move the stock so much? It's because they're all buying crazy leverage options. They're buying options that expire on Friday, which moves that you can essentially move the needle of the stock. Just by putting in like $1, you can move it massively because you're basically doing a game of roulette. You're like, hey, yeah, now I'll lose all my money, but I have a small chance of winning. So basically, they can increment, they can move the stock much more because they're just buying these super risky, crazy options because they don't give a shit if they lose all their money. So it is Robin Hood, it looks like to me.
+
+0:39:19 Sam: It's so crazy what Robin Hood has become. I actually can't stand it. It's funny. Yeah, but I definitely I'm sorry. I feel kind of sad for people because I think it's going to mess up a lot
+
+0:39:28 Shaan: of people. It's funny, scary. Yeah, it's funny, scary. I actually had a funny story. So three days ago, I'm in this like chat group and I posted I said, hey, who's got hot stock tipped for me? I feel like gambling. And I told I said, I got 100k I'm going to gamble. Yeah, give me give me some give me your best recommendation. So people were just responding is there's like six, seven people in this group, they were like, you know, this because of this back because of this reason, you could just speculate on this, you know, just funny things. And Greg Eisenberg, who's been on the pod a couple times, he goes, I think GameStop still has a 20x to go. And I actually didn't know what was going on with GameStop at the time. This was, I think, the first day of the pump, like when it was like 50% or something like that. And I looked at it, I was just like, what is he talking GameStop? I just like, you know, just referencing some again, some obscure old dead thing as whatever. And so anyways, I picked one, I put an arcade into it. And then fucking GameStop has been up. I think I would have had like
+
+0:40:26 Ben: $700, 000
+
+0:40:27 Shaan: or something crazy if I had literally just taken his like his joke recommendation to be serious. It was crazy.
+
+0:40:33 Sam: Yeah, it's it's messed up. It's funny. I don't
+
+0:40:36 Jack Smith: have like Elon Musk pumping Dogecoin just because it's like a funny meme.
+
+0:40:40 Shaan: Yeah, it's wild how and so is there something I actually don't know. Is there something when the shorts cover their position that boosts the stock more because they had
+
+0:40:48 Jack Smith: to cover? Is that why it's like double pumps? Yeah, because when you cover a short, you have to buy the stock at any market price. So these guys, one of the analogies had is like actually Warren Buffett said that he doesn't like shorting a stock because then he's like you can't sleep at night. Because here's an analogy, let's say x stock is, GameStop is $10. If I buy the stock, I kind of have infinite upside, right? Like it could go to 100, 000 or whatever. But if the stock goes bankrupt, I only lose my $10. I have a capped downside. But if I short the stock, I actually have a capped upside. I can only make a certain amount. If it goes to zero, I only can make $10. But then if it keeps going up, I actually have an unlimited upside. That's why on Robinhood or any of these platforms, you have to have special permissions to shorter stock because you actually can lose an infinite amount of money beyond the capital that you assign to that trade.
+
+0:41:46 Shaan: I was just looking at Tesla's short position. So at one point, Tesla was the most shorted stock in the market. And then Tesla stock obviously has gone insane. And so just in the last. What is this? So this is the last. Actually, is the short position up? I think there might be a larger short position. So January of 2020, it was 25 million of short interest. And now, and at the end of the year, it was 60 million. So, so even, even with the massive run up and people certainly covering their positions, it looks like the short position is still Huge against Tesla, which is interesting. It makes sense to me
+
+0:42:18 Jack Smith: I mean it could be new people buying in you know, like Tesla at an all-time high That's new people come in but the people that shorted it before If their hedge fund is a billion dollars and they put a lot of money to this if the sauce gone up 10x they could have lost 10x their money. So they need to get out of the position at any price. And that's what kind of creates somewhat of a spiral that the price could keep going up as shorts have to cover.
+
+0:42:43 Shaan: One more little thing. I don't know how much time you have, Jack, but are you paying attention?
+
+0:42:46 Jack Smith: I do need to jump off.
+
+0:42:47 Shaan: Okay, one minute. Okay, maybe we can't do this one. All right. I'm just going to give you the short version of it. Actually, let's do this one. I'll do it. I'll do a shorter one. Are you familiar with grayscale BTC? Yeah. Grayscale. So, Jack, explain grayscale to Sam real quick.
+
+0:42:58 Jack Smith: I mean, I'm not totally familiar with it, but the stock ticker is GBTC. And I believe that it's just like a derivative of Bitcoin at like a premium. So it's kind of like an ETF for Bitcoin. ETFs for Bitcoin are not legal, so these guys have launched something else so that institutional people can buy it without having to create an account on Kraken or something.
+
+0:43:19 Shaan: So the guys who started Grayscale, I think one of them was the former co-founder of Coinbase, I believe.
+
+0:43:23 Sam: Was it this Barry Silbert guy?
+
+0:43:25 Shaan: Yeah, Barry Silbert's involved. Maybe I got it wrong. Maybe he's doing a separate one. But basically, you know, the Winklevoss and others have been trying to start a Bitcoin ETF to make it easier for a normal investor to go into E-Trade and buy into Bitcoin without having to figure out how to hold it or figuring out how to start an account on Coinbase or whatever else. And it just keeps getting rejected. And I think, Jack, last time you were on, you mentioned an idea like this. You were like, why doesn't somebody create a Bitcoin index fund? Like just do it in the Middle East, do it somewhere else that's like just not on the US, you know, on the NASDAQ.
+
+0:43:53 Jack Smith: Well, I think I was saying that my friend is doing it in the Middle East. Not my friend, a guy I had known.
+
+0:43:58 Shaan: Right. And so Grayscale, I mean, it's been so crazy successful. So basically, this thing has grown like crazy. So they now have 24 billion in assets under management as like a pretty new thing. They are buying some sick amount of Bitcoin. I think they hold over 3% of all Bitcoin now. And the crazy thing is everybody who's buying Bitcoin from there is buying it at a premium because they have not only like a management fee of 2%, they literally they just trade at a higher price than their underlying Bitcoin holdings. So you're paying a premium for that convenience. And I just think this is like one of the like, these guys are going to make the guys in charge of this, you know, probably gonna make over a billion dollars doing one of the simplest, simplest in terms of like, they didn't build a product. They didn't invent Bitcoin.
+
+0:44:41 Jack Smith: They probably had to do a lot of regulatory work though, because otherwise, I've somehow sort of done it. I think
+
+0:44:45 Shaan: they paid some lawyers basically to say, hey, could we do this? And yeah, let's go ahead and list this and see what happens on, you know, on the OTC. And I just think it's it's insane that it's trading. I don't know what the premium is. I believe it's
+
+0:44:57 Jack Smith: I do need to jump now, guys. But this was super fun as always. So
+
+0:45:00 Sam: All right.
+
+0:45:01 Shaan: Thanks for coming, Jack.
+
+0:45:02 Jack Smith: Take care, guys.
+
+0:45:02 Sam: Thanks, Jack. Sean, I want to bring one more thing up to you.
+
+0:45:05 Shaan: Okay. I'm also supposed to jump in. Yeah, let's do it.
+
+0:45:07 Sam: Oh, well, really quick. Andreessen Horowitz. Yeah. So Andreessen Horowitz is regarded as one of the best, maybe the best VC firm out there.
+
+0:45:16 Shaan: By people in the know, it's not, it's not the best, but it is definitely tier one,
+
+0:45:19 Sam: but it has, um, a brand name that is, it's like a, who knows what's better Princeton and Harvard, but it's like, has that state has that name. So they got popular cause they had podcasts. My friend just texted me Maggie, who's the head of content at NerdWallet, you know, a multi-hundred million dollar business, and she just got recruited and hired there. So.
+
+0:45:38 Shaan: I love this idea that they're doing.
+
+0:45:40 Sam: They're building out their media arm. I don't know if that makes money. I think it does. There might be ads on it. Pretty interesting. What do you think about this?
+
+0:45:47 Shaan: So I don't think they have a media business today. I think they put out content just like most VCs do. They have podcasts and stuff to like be thought leaders so they get better deal flow. But now they're like, no, why do we need to go to the Wall Street Journal when we want to write an opinion piece? Let's just make a media company and we will write opinions into that. And like, let's actually blow this thing up. I think this is a really smart idea. Kind of a no-lose situation. Like, they have multiple billion-dollar-plus funds. So, the media business doesn't need to be a big business for them for this to add value to them.
+
+0:46:17 Sam: No, it could easily pay for itself, though. Just what they have now, it would pay for itself.
+
+0:46:21 Shaan: And so I think that it will, I think it will be successful, you know, financially, but at a scale that's for them, for probably pretty small, but the impact and the influence and the ability to like dictate their own terms and not be beholden to the media and having to like play nice with journalists and do all this stuff. They're like, no, we'll just be the journalists. Why not? And this has already been a trend, right? Like Mark Andreessen on Twitter will get millions of impressions. But I think it's smart of them to go straight into the media business and compete. And I love how the media people are all so upset about this.
+
+0:46:52 Sam: Yeah, it's stupid for anyone to be upset about it. I can't stand that. It's awesome. I can't stand the elitism of people like gatekeeping around who can and cannot share their opinion, who can and cannot have quote news or be a quote journalist. I think it's awesome. I'm on board. I think it's great.
+
+0:47:08 Shaan: By the way, I think this is a general trend for VC, which is that, this is not exactly the case for Andreessen, but it's a good example. VC is gonna shift, I think, to businesses that startups need that happen to invest that have basically they have a venture arm. So I'll give you an example. I've ever heard of Tusk Ventures. No. So this guy, I think, is it Bradley Tusk? He's like a kind of a big dog in the like kind of like lobbying world, kind of like the legal, political world. So he was an early investor in Uber, Airbnb, and a handful of other really big winners because he was the guy who was helping them go into cities, lobby with the cities, and get their kind of like new product, you know, like Airbnb or Uber was a new idea, get it through with governments. And so he was a service provider that they would normally pay for for their startup. And he was like, yeah, but I'm a venture investor. So if you want me to work with you on this, let me invest. And so this guy's made a killing on Airbnb and Uber and these other guys. And I think the same thing is going to happen for lawyers. Like every startup today goes to one group of people for investment and another group of people for legal services. Somebody, and you know, maybe it's me, somebody's going to go buy a law firm and be like, hey, here's what we're doing. We're cutting prices down to the bare minimum. We're going to be ultra client friendly, and we're going to just invest off. We're going to we're going to raise a fund out of this legal, you know, this law firm to invest in all the companies that we work with that that we do this for.
+
+0:48:30 Sam: I think it's a good idea. I think legally, I think you can't do that for a law firm, but I understand your point.
+
+0:48:35 Shaan: I think that they take equity right now in some startups. Some do, they take the set of cash, they take equity.
+
+0:48:38 Sam: I don't think they have owners, do they? They have partners.
+
+0:48:41 Shaan: Yeah, there's like a partner. The other thing that works there is like recruiting. So every startup wants to recruit engineers. So instead of being a recruiting firm that makes all your money, your business model is give me 20 percent of the first year salary. It's going to be a business model that is basically like I will do the recruiting for you, but we invest in your company. We invest and then we are your recruiter firm at cost.
+
+0:49:00 Sam: I'm on board with this. I think it's great. Although I would want to... I've never taken money from any of these big guys. I would want to ask them, do you actually use the services they provide?
+
+0:49:08 Shaan: It's different from... Oh, I'm Andreessen Hurwitz and we have some marketing people on staff to being like, no, we're a badass ad agency with a venture arm. We are a badass legal firm with a venture arm. We're a badass recruiting firm with a venture arm. I think it's a different thing. And I think founders are going to start taking that because they're going to be like, hey, I get two for one here.
+
+0:49:25 Sam: Yeah, it was kind of like that Reed who came on. Reed? What's the YouTuber guy's name?
+
+0:49:30 Shaan: Oh, yeah, yeah, yeah. MrBeastManager. Yeah, that's right. Yeah, that's a good example. Cool. I got to jump. So I'll see you.
+
+0:49:36 Sam: See you.

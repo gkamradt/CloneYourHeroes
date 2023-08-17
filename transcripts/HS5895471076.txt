@@ -1,0 +1,709 @@
+0:00:00 Shaan: So that was the other thing that sparked drama. Now you've got leaked phone calls, you've got the CEO calling a guy crazy, he said, she said. And so that raised the profile of what was otherwise kind of a small thing. As the thing on Reddit, small things could turn into big things. That's like part of the beauty of Reddit. And that's what was happening here.
+
+0:00:20 Sam: Dude, first of all, your energy is going to be sight. This is a this is a great story. Well, just wait, because
+
+0:00:27 Shaan: I have a little more for you here. All right, ready? This is the part that that's the background.
+
+0:00:31 Sam: OK,
+
+0:00:31 Shaan: Now let me give you some foreground, right? Let me give you a little future play here. OK,
+
+0:00:36 Sam: some foreplay?
+
+0:00:37 Shaan: Let me give you a little foreplay.
+
+0:00:48 Sam: All right,
+
+0:00:48 Shaan: what's up? We're here. Dude, have you seen this Reddit revolt that's happening? Are you aware of this?
+
+0:00:55 Sam: I am aware of it. And is it going to matter really? So basically what happened is there's this app called Apollo, right? Apollo?
+
+0:01:04 Shaan: Yep. Here's kind of the, I would say the zoomed out version of the story. So what's happening today is if you go to Reddit right now, the whole site is down. So they broke all of Reddit. What they were trying to do was just a bunch of subreddits. So these communities on Reddit were trying to protest some new Reddit policies. So it started with a few of them that said, you know what, we disagree with this policy change that's going on. Yeah, we're going to do this 48 hour blackout. We're going to go private. We're going to go dark." They called it Reddit Go. The subreddit is going dark. More and more started joining to the point where 7, 000 subreddits including some of the biggest ones on there, like r slash funny and r slash pics and stuff like that.
+
+0:01:47 Sam: I believe that's 30 percent of Reddit. That's what I read.
+
+0:01:51 Shaan: Yeah. It's a huge amount. There's a couple of cool websites that you can go to. In fact, we should go to one of them right now. So go to this site. So it's reddark. So reddark.untoned.uk, very strange site, but you can see in real time, this thing's almost like this tool's even almost broken because so many are going dark at the same time. And Ben, if you could share your screen. So it says 7, 240 out of 7, 806, that's like 90% or something, right? 740 out of 7, 806, 93% of subreddits have gone dark, which is just an insane number. And if you do it, if you click the large thing, there's like a live feed. It'll be like, animalswithjobs has just gone private, 5, 000 members. Musichoarder has gone private, 5, 000 members. Crustywindows has gone private. And you just see like in real time. And I've been watching this since yesterday. It's crazy. When I opened this up yesterday, it was at 2, 000 and now it's basically all of them. It's 7, 200 out of 7, 800. Almost every subreddit has decided to join this protest. You say, well, what's the policy? What's so bad? What happened is Reddit wants to IPO. Reddit wants to go public in the future. Reddit is not currently profitable. They make about, I don't know, somewhere between 400, $500 million a year roughly, and they're still not profitable. These apps that other people had made, called third-party apps, were just used to, like You could browse Reddit and they built special features into them that made them maybe easier to use for certain types of people, power users or moderators, things like that. That's why people loved Apollo is because they had some power user features that were great for moderators. Reddit made the mistake of, they thought they were picking on Apollo, but in fact they were pissing off moderators. And that was a really, really big issue. And I'll tell you why in a second. So Reddit goes and says, hey, look, we can't keep giving these third-party apps full access to Reddit. This has a couple of problems. First, they're hitting our servers with a bunch of requests that costs us. He said what the CEO said was tens of millions per year in server requests. The second thing is those server requests are now serving Reddit content onto someone else's app. So that person can monetize their app and Reddit doesn't get a piece of that. So they were like, all right, we wanna cut costs, we wanna increase revenue. And they had a third problem, which was they didn't want their data going to all these different places because basically OpenAI and ChatGPT had the scraped Reddit. Reddit was like one of the key sources to make chat GPT so good. And Reddit kind of was asleep when they did the first scrape. But now they're like, oh, no, no, no, no. If any other AI company wants our data, you're going to pay us a huge amount of money for it. So to do that, they needed to basically paywall the data. They needed the data only to live inside their own walls. So they upped their API pricing. They basically said, for every server request you do, it's now going to be whatever, 10 cents and a fake number. But the result was that an app like Apollo, which is made by basically this one dude who made it, you know, as a passion project out of college, he would have to pay 20 something million dollars a year just to maintain Apollo. And so he's like, dude, that's unfeasible. I, he's like, I have a 50, 000 paying users. They pay me 10 bucks a year. So he's like, I make 500K on this. Now my costs are gonna, in 30 days, my costs are gonna go to 2 million a month. And he's like, that obviously kills my app. And it kills not just my app, all the third-party apps. And Reddit's answer was basically like, shrug? Like, you know, all right, well, sucks to be you. And then the way that they kind of responded...
+
+0:05:38 Sam: Well, so wait, hold on. I want to ask you a question about how the word got out. But first, we have to get background here, which is even though, so I just looked it up. Reddit is like the ninth most popular website in America. And even it's like, you know, it's like when someone says
+
+0:05:54 Shaan: no one knows as they use it.
+
+0:05:56 Sam: Well, it's like, you know, no one goes to that restaurant anymore. It's too crowded. It's kind of like that. So Reddit is basically a I don't even know how to describe it, but basically 100, 000 plus forums all on one website. And the reason why this matters is because each forum, which is called a sub Reddit and there's basically a sub Reddit on any topic you can ever imagine. In most viral news in America, or viral memes, start at Reddit. And it's... Sub-Reddit's are forums that are owned by volunteers. So, someone comes up with one and they create it and they run it. And then they run it. And I didn't realize how much autonomy they are giving. And the reason why this is important is now, like this has happened before. Apparently Reddit fired one woman named Victoria like eight years ago, and she was a community moderator and everyone loved her. And so all these other subreddit forum leaders like did the same thing, but where they shut it down a little bit. Now,
+
+0:06:52 Sam: their main- By
+
+0:06:52 Shaan: the way, the result of that was the CEO got fired. They got two, back then, they got 200, 000 people to sign a petition saying, Ellen Powell needs to get fired. And so she stepped down, like, I don't know, a week later or days later after that happened. So they, you know, they do wield a lot of power.
+
+0:07:09 Sam: They yield a ton of power. So, but here's what's crazy. A, Reddit doesn't make that much money for how large it is. It's what it's, if you look at the top
+
+0:07:16 Shaan: 30
+
+0:07:16 Sam: websites in America, I bet you I'm not researchers, but I would make a bet that it's on the very, very low end of revenue or even value created per user per user. And part of it's because people are anonymous and Redditers are typically horrible with clicking ads and things like that. The other part of it is that they're in a weird way. This guy, Steve Huffman and Alexis Ohanian, they created this company, Reddit, and it's amazing, and their users own the platform a little bit. That's what we're seeing here, is these people basically set their channels or set their sub-routines to private so you can't access them. So that's what's happening. My question to you is, when this guy, we'll call him Apollo, when Apollo guy announced that he was going to shut down his app, how did he get word out that it happened and how did all these people rally around this?
+
+0:08:01 Shaan: Well, again, the people that use his app were power users. When he said, hey guys, here's what's going on and it actually happened in multiple steps. The reason this got so much heat is because it happened in multiple stages. He said, they announced that they were going to update their pricing. He's like, hey, we're gonna have to keep an eye out for this but I'm optimistic. Like I'm sure Reddit's not gonna, they're not gonna like just do something that doesn't make any sense. And Reddit's like, for sure, for sure. We're obviously gonna take everybody's needs into account but we will have to update the pricing. And he's like, you know what? That's reasonable. I can't wait to hear back what you guys have in mind. That was like post one. And he shared that,
+
+0:08:38 Sam: but where did he share that?
+
+0:08:39 Shaan: He shared it on subreddit, on Reddit, and maybe in the Apollo subreddit plus some others. And so like the mods subreddit, because again, a lot of moderators like Apollo because it helps them do their job faster. Because these guys-
+
+0:08:50 Sam: Do subreddit owners make money?
+
+0:08:52 Shaan: No, they make nothing. So Reddit has this huge fleet, like of the moderators that are in the dark one, I think right now, there's 28 million moderators, I think that was the number, that are participating in this. Some insane number, let me see.
+
+0:09:07 Sam: I had a subreddit, it was called like apartment hacks and I was trying to get people in it. It very quickly got like a thousand people, but I quit working on it.
+
+0:09:15 Shaan: Sorry, I got the number wrong. 28, 000 moderators on the 7, 000 subreddits that are participating in the blackout basically. So these moderators, basically they're constantly fighting spam. So when you have a site that's as popular as Reddit, there's a huge amount of people that are trying to get you to buy their crap, that are trying to get you to subscribe to their OnlyFans, that are trying to get you to click this link and install this virus, and, or just doing click bait, like just making it where they post something super outrageous just to get clicks and engagement, upvotes and a big battle in the comments. But then it kind of turns off people who were there for like, you know, they wanted the entertainment without it getting ruined, without the party getting ruined. And so the moderators were the people that were keeping this house party working, where it's like, yeah, we want people to come here and have fun, but no, dude, you can't bring 17 kegs in here. No, you can't just come here and flyer your own party inside my house. Like, no, no, you can't do all that crap. And they're fighting this constantly and they do it as a giant unpaid thing. Now, what they pointed out during this protest very reasonably was that, dude, Reddit's one of the only networks that's all run by unpaid volunteer moderators. So for example, Facebook has a huge moderation program. They spend about 200 or $300 million a year just on content moderation. Twitter spends a bunch of money in content moderation. And so content moderation can be a very big cost center. And so the moderators are like, hey, you're trying to save $10 million by shutting off these third-party apps? Have you thought about what happens when we stopped doing all this free work and like now you have to pay for content moderation or this whole site goes to shit. Like what's gonna happen then? Maybe you should listen to us. And so that's where this has escalated to. But just to finish the story. So he goes, he says upfront, okay, Reddit announces change, it's gonna affect us, but hopefully it's all good. And some people in the comments were like, dude, you're being naive. These corporations are like, just like Twitter killed all the third-party clients, Reddit's gonna do the same. These guys wanna go public. They're gonna wanna own all, they're gonna wanna own the user experience for all users of Reddit, they're gonna kill you. And he's like, no, no, no, no, no, they said, they said they're gonna be fair. Okay, a couple months later it comes out and they're like, here's the pricing, it kills you, and it takes into effect in 30 days. He's like, what? First of all, ridiculous pricing. Second of all, 30 days, I couldn't possibly try to change my app to maybe make less requests to your server. I couldn't do anything in 30 days. You're just going to kill my whole business. I took yearly subscription. I'm not only in my app going to die, I'm going to have to refund like $250K to people who paid for a year subscription because my app is no longer going to work. So he was in a world of trouble. So he contacts Reddit and he does a call with the team from Reddit. And he records the call. And after the call,
+
+0:12:02 Sam: they come out. Which state is he in? You're allowed to do that in some states, but not in every state. Did he do it the right way?
+
+0:12:08 Shaan: Dude, in Neckbeard Nation, it's all good, baby. It's all legal. You're the little guy fighting the big guy. You can do whatever you want. And so, at first, he doesn't do anything with it. Then Reddit comes out and says, this guy's crazy. He's making outlandish claims. He tried to extort us for, he asked for $10 million in order to like keep supporting the app. We can't do business with this crazy guy. And they basically like kind of like just, you know, slandered him a little bit. And he's like, what are you talking about? That's not what I said. And what did I say that was so outrageous? And he's like, here's the recording. People can listen to it themselves and decide.
+
+0:12:45 Sam: Oh man, did you listen to it?
+
+0:12:46 Shaan: I haven't listened to the whole thing, but there's a part in there where he's like, look, like. Did he sound reasonable? Yeah, he sounds reasonable. And he's basically like, look, you know, obviously I'd love to just keep going independent, but you guys are saying it's too expensive if you want to raise pricing. That makes it untenable for me. But people like this app and they're going to be upset when this app goes down. He's like, you know, you guys bought Alien Blue back in the day and you made that the Reddit app. Like, have you considered just buying this app so that you can, like, you don't have to pay for all these extra, you know, it's not some external party that you guys can own it, but at least it lives on and it's a win-win solution potentially for all of us.
+
+0:13:20 Sam: Did it hit the price?
+
+0:13:22 Shaan: And so he was like, he said something like, you're saying this will cost me 20 million a year, you're saying this costs you tens of millions a year, you could buy the whole thing for $10 million and that's six months of my operating costs and it could work out that way. And Steve Huffman on the call is like, look, I don't appreciate the threat type of thing. He says something about that's a threat. And he goes, wait, what's a threat? What do you mean? Because the guy said something like, he goes, you know, if you don't want all this noise about this, you could just do this. And he kind of took it as a threat, like, oh, you're threatening, you're gonna make a bunch of noise if we don't pay you $10 million? He goes, no, no, no, I'm saying, you're saying I'm making too many API calls. So if you don't want all this server noise for the API requests, you could just own it and just use your internal systems to do it instead. And he's like, oh, sorry, like, okay, My bad. I didn't realize you're talking about API requests. I apologize. I didn't mean to say that you were threatening us. He was like, okay, no problem. I just want to be clear on that. Then later he comes out and says he threatened us. He's like, dude, even on the call, you apologize saying, sorry, I misunderstood you. Then you took that out of context and tried to make me sound like a guy who's trying to profit out of this, or like trying to make unreasonable requests. So anyways, that caused, so that was the other thing that sparked drama. Now you've got leaked phone calls, you've got the CEO calling a guy crazy, He said, she said. And so that raised the profile of what was otherwise kind of a small thing as the thing on Reddit. Small things could turn into big things. That's like part of the beauty of Reddit. And that's what was happening here.
+
+0:15:00 Sam: Dude, first of all, your energy is going to be sight. This is a great story. Well, just wait, because
+
+0:15:07 Shaan: I have a little more for you here. Are you ready? This is the part. That's the background.
+
+0:15:12 Sam: OK.
+
+0:15:12 Shaan: Now let me give you some foreground, right? Let me give you a little future play here.
+
+0:15:16 Sam: Some foreplay? Let me give you a little future play here. Okay, so. Some foreplay? Let me give
+
+0:15:18 Shaan: you a little foreplay. So Reddit, I may have forgot, but this is how Reddit started. So Reddit started because the popular forum site of the day, Dig, made this big update and everybody hated it. And Dig said, screw you guys, this is better. And they said, see ya. And they went to this little site called Reddit and Reddit blew up. And that's how Reddit became what it is, is that the Digg fumbled the ball, released this anti-user update and the users took their ball.
+
+0:15:48 Sam: And they were sticking it to the man.
+
+0:15:49 Shaan: They stuck it to the man. Well, who's to say that doesn't happen again? So I have a little proposal. Somebody should run with this idea. I bought this domain And I think somebody should do this. If not, you know, this is what I would do if I was a little younger and hungrier than I am today. So here's what I think somebody should do. I think now is the perfect time.
+
+0:16:10 Sam: The younger you, the equally conniving, just a little bit more ambitious you.
+
+0:16:14 Shaan: My T levels were a little higher back then. Yeah. I'm a mellowed out dad now. My daughter paints my toenails. I can't be doing all this kind of stuff.
+
+0:16:22 Sam: Yeah, if you woke up at 10 a.m. This morning and you wear a hoodie all the time, this is for you. Neckbeard Nation, this is the call out. It's John Samayor.
+
+0:16:30 Shaan: Okay, so I want you to just check out this little website here. So Sam, I don't know if you know what the CEO Steve's handle is on Reddit. Do you know what his username is?
+
+0:16:41 Sam: I used to. Yeah, if you said it, I would remember it. Dark something?
+
+0:16:45 Shaan: What was it? SPEZ. SPEZ. And so, I don't know, I just woke up this morning, 6 a.m. And I just looked at GoDaddy and I just saw that spesless.com was available. I thought, huh, one cent for spesless.com. So I bought it and I said, what's Spesless? I think it's Reddit without spes. Would you like Reddit without Steve? Well, here's what we're gonna do. We're gonna make a Reddit as very, very, very, very, very similar looking to this website, but with one difference. There's no Steve, there's no corporation that's gonna-
+
+0:17:18 Sam: Dude, the tagline needs to be same, same, but different.
+
+0:17:21 Shaan: Same, same, but different, exactly right. Same, same, but different. Exactly, so here's, Ben threw this up while we were talking because I gave him a rant this morning. I was like, dude, here's what someone should do. And I think he just bought, He told me right before we went on air, he goes, I'm gonna buy the domain, I'm gonna put it up. So he goes, it says, I love Reddit. I just don't like, don't like Spaz. So I'm gonna create a new Reddit, it's called Spazless. It's Reddit without Steve. Here's the master plan. It'll be very, very, very similar website to Reddit. It's gonna be a nonprofit and any revenue that it makes will get funneled back into the communities or moderators because this blackout, like this 48-hour protest that they said, it's cool. It's going to get headlines, but Reddit really doesn't care. They're going to lose about $3 million by being down for two days. And then they're just going to move on with life. And the protesters made a big error, which is they said how long they would protest for. They said the pain will stop at 48 hours. So all Reddit has to do is just ignore it for 48 hours. They're going to keep doing what they want. So when your voice doesn't work, you gotta exit. And here's a little exit boat for you. It's basically Reddit without the bullshit. And there's a little email signup box. So if a million people sign up, then who knows? Maybe we can create something here. And so, you know, why do this as a nonprofit? Your boy's already rich. We don't need to make a profit on this. We just create this for fun because it's fun to see something burned down. I don't even have a problem with Steve Huffman, by the way. I think he's,
+
+0:18:44 Sam: you know, he's a smart guy.
+
+0:18:45 Shaan: I like Steve. I think he's fair in his opinion, but also this is the internet. And in the internet, you really got to know who you're pissing off. And I think he's pissed off too many people with this move. I can't believe that nobody's making the alternative to this. The People that are trying to make alternatives, they're all trying to do it so different. You don't want to do different. It needs to look almost exactly the same. Change the shade of red by like two hex, you know, like little hex color over to the right. And then it needs to be the same site with the same structure. Everything's the same, except for who decides what happens, so how the money flows. And if you just change that, you could do this as a nonprofit thing and I think it would be very entertaining.
+
+0:19:23 Sam: In lieu of your morning cup of coffee this morning, you had a cup of rage and I dig it. Dude, First of all, a few beautiful things. Neckbeard Nation.
+
+0:19:34 Shaan: That was nice, right?
+
+0:19:35 Sam: That's our new...
+
+0:19:36 Shaan: That's our fan base.
+
+0:19:38 Sam: So we hired this woman to help us with some T-shirts if she's listening. Dude, this lady, by the way... Hilarious.
+
+0:19:44 Shaan: Hilarious thing you did. So, listen to this. This woman... This woman sent me this beautiful... No, no, say the whole thing. What does she do? So you get something in the mail?
+
+0:19:55 Sam: I get this thing in the mail, and it's like this beautiful, like, 10 or 20-page outline. It's clever, and it says what she's gonna do for us to make T-shirts.
+
+0:20:01 Shaan: Well, is it beautiful? It looks like a giant PowerPoint deck that we just printed out because she knows, like, oh, he might not click the link. So let me just print the PowerPoint out on white and black paper and just put it in an envelope for him.
+
+0:20:11 Sam: It's beautiful, like, when you
+
+0:20:13 Sam: see, like, a neckbeard guy doing very neckbeard thing where you're
+
+0:20:16 Sam: like, I'm just happy this exists. This is a beautiful display. In that sense, it's beautiful. It wasn't physically beautiful. It was very clever. She said, you can reach me at myfirstthought.gmail.com or something like that. Or you can DM me, right? Yeah, thot, which stands for that hoe over there. And or she said, you can just DM me on my first thought. And so I talked to her and I was like, this is awesome. Let's do something. We'll work together. It worked. I email her with you on the line and I go, I think I said, dear Thot. Or dear Thot. And she was like, great. I mean, by the way, you should look up what Thot means. And I was like, I know what it means.
+
+0:21:02 Shaan: I thought that you said it first
+
+0:21:05 Sam: to me. That was your Twitter handle. I don't, I'm not trying to disrespect you. You said it, not me. I'm just repeating, I'm just playing the game here.
+
+0:21:14 Shaan: And the funniest thing is you go, all right, thought, let's do this. Yes.
+
+0:21:21 Sam: And she was like, I don't think you know what Thot means.
+
+0:21:24 Sam: Otherwise you wouldn't have called me that.
+
+0:21:26 Shaan: She goes, LMAO, I'm being addressed as my first Thot in your email, Urban Dictionary below for your amusement.
+
+0:21:33 Sam: Yeah, and I immediately replied. I was like, I'm sorry, I thought, I thought, I thought this was a shtick.
+
+0:21:39 Sam: You're right. I'll call you your real name. My apologies. So we didn't get off to the doctor a great start right away. All right, Thought,
+
+0:21:48 Shaan: let's do this.
+
+0:21:52 Sam: So, dear Thought, we're gonna-
+
+0:21:54 Shaan: This is why we only have four female listeners, is because of this type of behavior.
+
+0:21:58 Sam: I was trying to,
+
+0:21:59 Sam: you know, I was trying to relate. I was trying to show that I ran. Yeah, it didn't work out well.
+
+0:22:05 Shaan: Yeah, it's like when you hear someone call their friend, they're like, oh, Nikki. And you're like, what's up, Nikki? And they're like, it's Nicholas. And you're like, oh, okay, just cause he, Nicholas, got it.
+
+0:22:14 Sam: Yeah, I'm sorry, I was just kidding.
+
+0:22:17 Sam: I was in L.A. This weekend, and I went to the L.A. Tech Week thing, and we went to this event, and there was 300 people. And I'm not exaggerating, I had 30 people of the 300 people come up to me and say, Hey, love MFM. I'm a total man. And so two episodes ago, or one episode ago, Sean came up with this idea of this total man. We got a lot of flack for it, I don't know if you saw it, but people loved it in general.
+
+0:22:41 Sam: And I
+
+0:22:42 Sam: had literally 20 or 30 people, like, in a row come up and be like, dude, I'm the total man.
+
+0:22:46 Shaan: I love it. You're doing it wrong. It's not total man with like a space in between. Cause then it's like, yo, I'm the total man. It's I'm a total man. It's like one word. It's like, it's a, it's a thing. You're a noun. It's a different type of noun. You got, you know, mammals, you got humans, and you got Total Man. It's just like a separate species. Yeah, get
+
+0:23:08 Sam: rid of the space. It's cleaner. I got you. Yeah, we're gonna get rid of it. And so, Total Man, that's a hit. I think Neckbeard Nation, with you being the mayor, I mean, you being the president, that's a new thing.
+
+0:23:22 Shaan: That's it. We did it. We got a new thing. Totally agree.
+
+0:23:27 Sam: Question, which side are you on? I think I'm team red on this one, But they screwed up. They shouldn't have done it this way in the first place. You know, they're a venture capital company. They've got hundreds of employees, probably thousands at this point. They fumbled the bag here, not on the PR press, or PR front, which they did, but like letting this get out of hand the way it has in the first place. I mean, you've got to pay the bills. What are they doing? Letting people bill this stuff on their land. Right. You know what I mean?
+
+0:23:56 Shaan: Yeah, I get where they're coming from. I think they, like many tech companies, fumbled the communication and execution. But I'm also horrid at that. So, you know, I would have done this twice as bad if I was in their position. Because I'm always like, I'm a very much rip the bandaid off type of person. And also like, Because I'm very far on the spectrum of not easily offended, it takes a lot to make me feel like mad or upset. I severely underestimate how easily I can make other people mad or upset. I get their position. I think most likely, unless Bezalus becomes a thing, they're just gonna be like, cool, nice protest. We hear you, we'll take you into account in the future. Continue using Reddit. Life will just go on and nothing bad will happen from this unless literally somebody seizes the narrative. That's the thing. There's a narrative right now and somebody could come in and they could surf that momentum on the narrative.
+
+0:24:57 Sam: That's hard
+
+0:24:57 Shaan: though. We are the thing.
+
+0:24:59 Sam: That's hard. Uber had the same thing. Do you remember when it was trending, delete Uber? Like, I think these things come and go.
+
+0:25:06 Shaan: Like this happened in the crypto world. Crypto world is like the most like ruthless. It's like, just like knife fighting in the streets. And so OpenSea had some policy issue or some change. I don't, Do you remember what it was? It was like the fee change or something. Why did people get mad at OpenSea when they... I forget what it was, they changed something. They changed the royalty's effect. Yeah, they changed like the royalty take rate or something.
+
+0:25:25 Sam: By the
+
+0:25:25 Sam: way, worst podcasting etiquette ever to ask the guy in the room who's sitting like 10 feet behind you with no mic or headphones to ask in his opinion.
+
+0:25:33 Shaan: Have you seen Joe Rogan? If Joe Rogan does it, anyone can do it. So basically OpenSea, which was the big NFT marketplace, by far the dominant and 100% market share type of thing, changed something in the policy. People didn't like it. And literally like in like a 48 hour period, somebody spun up a competitor and they did what was called a vampire attack, which was they, in crypto you could do this thing where you could be like, okay, who are all the wallets that use OpenSea? I could find them, they're all public, that I can airdrop them tokens that say, if you come over to our platform and claim them, create your account here, you get free tokens. And people are like, token, might be worth something. And so they just like, they basically like VampireTech, they just suck the blood out of one network to another. And this has happened several times in crypto where they've basically tried to do this. Now it's not always 100% successful, but to go from, you didn't even exist to like a million to 2 million users with like a shot at, hey, if you deliver a dope user experience, this can work, that's like better than nothing. And so In crypto, this has happened a couple of times. A couple of the DeFi tools have had this happen, where we don't like your policy, we're going to fork your source code, rename it, and we're going to incentivize all the major players on yours to come over here and get like a bonus token if they come claim their thing here, which builds the momentum and the narrative.
+
+0:26:52 Sam: Well, I don't, I mean, like your energy, I don't know how to like one up you here. You know, like they say when you're like supposed to like meet people, you're supposed to match their energy to like make them feel comfortable. I don't know what to say. I feel like we're going to a monster truck rally, like Sunday, Sunday, Sunday. Like you're a gravedigger right now. And now I'm just in the stands trying to keep up with earplugs. You know what I mean?
+
+0:27:18 Shaan: The Sunday, Sunday, Sunday, that's so on fire. How do you even remember or
+
+0:27:22 Sam: know that? That's like their radio ads, right? Yeah. Yeah. Monster Jam.
+
+0:27:29 Shaan: Have you been to a monster truck rally in the last 700 days.
+
+0:27:33 Sam: Is the Pope Catholic? Of course I have.
+
+0:27:35 Shaan: Yeah, I've grown a monster truck all the time.
+
+0:27:36 Sam: I've gone like five or six times. Dude, you backflip now. I'm not not gonna go see a big ass truck do a backflip.
+
+0:27:43 Shaan: All right, let me talk
+
+0:27:44 Sam: to you about something that you actually are no more than me about, I think because you're friends with them. Yeah. And then I want to talk about, that's
+
+0:27:50 Shaan: a lot of stuff.
+
+0:27:51 Sam: Okay. I want to talk about the second thing about milk road and that thing, and we'll leave time for that. So, turpentine is that was called a turpentine. Turpentine?
+
+0:28:03 Shaan: I think time.
+
+0:28:04 Sam: Yeah. So basically there's a guy named Eric Thornburg, he's been in the game for a while, he's just done a bunch of stuff on the internet, including founding a company called On Deck. He launched this new thing called Turpentine. It was very nice, He gave us a little shout out. But basically, what I believe it to be is just a podcast network for business content, particularly some type of startup-y related stuff. So there's one on media. Yeah, tech. There's one on media. I think there's one on FinTech, a few other things. And he announced it. Have you seen this? What am I missing here?
+
+0:28:37 Shaan: Yeah, I've seen this. So Eric Tornberg's behind this. Eric's an awesome guy. Did he talk to you about this before he did it? Cause I feel like if I was gonna do something like this, you're my phone-a-friend, right?
+
+0:28:49 Sam: No, you didn't talk
+
+0:28:49 Shaan: to me. You're my phone-a-friend on that. I've never talked to him. Oh, you never talked to him, so you don't know each other that well. Okay, gotcha. No. Because he's in our friend group, I guess. Okay, so I'm curious what your take is on this, because I think
+
+0:29:00 Sam: you know a lot about this. I have a strong opinion, but
+
+0:29:03 Shaan: I want you to explain it. I mean, I think you said it well. He's trying to create like what I would say the easiest analog is like the ringer. So the ringer was started by Bill Simmons. So kind of like famous notable guy in the in the sports journalism landscape basically was like, I'm going to create a network of sports podcasts. I'll have my show. I'll have this guy do NBA. I'll have this guy do NFL. I'll have this guy do, you know, pop culture. I'll have this guy do whatever. And so they created a network of podcasts, ended up selling it to Spotify for a few hundred million dollars, 200 something million dollars. And Really that was mostly because Bill had the number one sports podcast and he's very influential and Spotify had a strategy there. Eric's trying to do that for tech. He's like, how do I be the ringer? How do I be barstool, but for the tech industry? Can I basically create intellectual, entertaining but also highly intellectual conversations about things that people care about in tech? Then he's looking for shows. Basically, if we were not the badasses that we were, we could be like, hey, let's join Turpentine, we're going to get their back office, we're going to get them helping us sell ads, we're going to get help with production, and we'll get cross-promoted amongst their network. It's very similar to Workweek, which we've talked about on here before. Workweek is doing this with newsletters. Turpentine is trying to do this with podcasts plus newsletters, plus other things. His tagline is, where experts talk. It's a network podcast covering tech, business culture, and trends that are driving the future. And he's got, I think, three or four shows right now. It looks like maybe five. Three that he's doing, and then a couple that other people are doing. But they're all very fancy-schmancy, like the cognitive revolution, media empires, moment of Zen. And so they're kind of like, I would say, highbrow compared to what most podcasts are.
+
+0:30:59 Sam: Yeah, so Here's my opinion. I don't think anyone that you mentioned or anyone out there is really doing it perfectly, but this is beautifully done. You go to his website,
+
+0:31:12 Shaan: it looks awesome. Wow, I thought you were gonna be anti. You're pretty anti most media things. No, oh no,
+
+0:31:16 Sam: it's gonna come. It's gonna come.
+
+0:31:19 Shaan: Oh you're doing you're doing that sandwich thing? Yeah.
+
+0:31:23 Sam: My bad. I stopped you
+
+0:31:24 Shaan: with the bread. Yeah.
+
+0:31:29 Sam: Yeah sandwiches always have- it's not- Love your
+
+0:31:32 Shaan: logo, hate everything else.
+
+0:31:35 Sam: Like a sandwich is not meat, cheese, bread. It's bread, meat, cheese, bread. Okay. It begins in it. And it ends with that. No, I do like it. So here's the thing about these companies. I think if he doesn't raise money, I think it's awesome. I think as long as he doesn't raise money, I think this could be really, really cool. I think owning this outright is amazing. I think that's really cool. I think when I go to his website, I think he borderline, like, if it was done a little bit the other way, it would be really douchey. But the way that he's done it, it's actually quite awesome. Like for example, he quotes Pablo Picasso and you know, that could go either way. That could go either way. He went the right way. I think when you go to the website, I think the name is nice. It's all like pretty slick. It's upscale. It actually looks really good. I think that if you did that a little bit differently, it would not work. But he's like, what's the quote for Pablo Picasso in there? Do you see it?
+
+0:32:32 Shaan: Yeah. It says, when art critics get together, they talk about form and structure and meaning. When artists get together, they talk about where you can buy cheap turpentine.
+
+0:32:41 Sam: Cool, I think that's cool. I think it's cool, and it's got a nice little picture of Pablo. I think it's awesome.
+
+0:32:45 Shaan: Yeah, dude, so on my next company, I'm gonna get a quote from Benny Blanco. What's he going
+
+0:32:51 Sam: to say?
+
+0:32:52 Shaan: I don't know, just he got Pablo Picasso, I'm going to get Benny Blanco on the side.
+
+0:32:58 Sam: We can do Bugs Bunny next too. I think it's good, man. I think it's good branding. So my opinion is, I think it's cool if you own it. I think it's cool if... So I don't know if you know this, you probably don't, because who cares, but Business Insider's writer, the writers are on strike. Do you know that?
+
+0:33:16 Shaan: Yes. Well, a lot of like isn't Hollywood also on strike right now?
+
+0:33:20 Sam: I think they're totally unrelated other than maybe they inspired each other. I think there was like a contract up and insider formed a union or something like that and they are protesting And they're doing this thing called a digital pick line, I guess it's called, where a digital picket line where they're like telling all the customers like not to click on Business Insider links now, which is great. I mean, someone who follows a Business Insider journalist is probably not also someone reading business insider. I would imagine. So I don't know if that's going to go well, but if you have to, so if you're going to start a media company, I think you have to be incredibly careful not to hire folks who will unionize. I think that is actually an existential crisis to a lot of media companies right now. And I think that that's like a real. So here's the takeaways. I think A, it's awesome. So you're going to do this. I think it's cool. I think you should own the whole thing. B, look out for union types. C, him going B2B, that's 100% the way to go. And I want to give you an example.
+
+0:34:21 Shaan: But is this B2B? I don't think this is B2B.
+
+0:34:24 Sam: What makes you
+
+0:34:24 Shaan: say this is B2B?
+
+0:34:26 Sam: Well, I don't know.
+
+0:34:26 Shaan: I think he just has, I think he has probably, he's probably going for like high-end customers more so than B2B, right?
+
+0:34:34 Sam: Yeah, but your ad salespeople can spin that nicely to Salesforce. Like, it's not like true crime, you know what I mean? It's borderline. It's kissing cousins with the B2B. Real B2B. It's close. But let me give you an example of a real B2B one.
+
+0:34:48 Shaan: B2B-ish. B2B-ish.
+
+0:34:50 Sam: Yeah, it's bish. Have you heard? By the way, did you see that guy who's getting in trouble? His name's George Santos. He's like, clearly, I think he's like from South America, but he was, I'm gonna butcher it, but he was some type of elected official out of Long Island. And he's getting in trouble because he did a bunch of fraudish stuff. But one thing that's funny is he told everyone he was Jewish. And he goes, well, I didn't say I was Jewish. I said I was Jew-ish. Like, I'm
+
+0:35:18 Shaan: friends with the Jews.
+
+0:35:19 Sam: I was Jew-ish. Like, you know, like, I'm buddies with them. Have you not seen that?
+
+0:35:24 Shaan: LAZARTE LAMBERT-CHAPMAN All time. All time excuse. GIGI GAL
+
+0:35:27 Sam: He like stole $500, 000, so he's actually a crook. But like the funniest part, he goes, I'm Jewish. And you look at him and he's like from Brazil or something like what? So that's pretty funny. But anyway, I think that instead of going B2B ish, you got to go all the way. Have you heard of aging media? No. Okay. So type in aging media. It started by this guy named John. John's a member of Hampton, but everything I'm actually about to say, I just kind of stole from a similar web, but I have heard some rumors about them. But basically, if you go to Aging Media, what's the-
+
+0:36:02 Shaan: You mean on his Hampton application, where he had to write his revenue, profits, names of all his children, and social security number?
+
+0:36:09 Sam: You may have some info on this. He's in the- Look,
+
+0:36:13 Sam: I'm- I
+
+0:36:14 Shaan: just clicked SimilarWeb on their site, no info. So I know you ain't getting shit from SimilarWeb right now.
+
+0:36:19 Sam: Oh yeah, yeah. So here's why, I'm gonna explain it to you. Gotta be a pro. No, listen, Aging Media is their like corporate website. So what's
+
+0:36:27 Shaan: it say? They have like their brands like Senior housing news, hospice news, skilled nursing news, that sort of thing.
+
+0:36:33 Sam: Those have. So what's the what's the meta tag on there? Is it like a nursing home professional
+
+0:36:39 Shaan: or media for the senior care industry?
+
+0:36:41 Sam: Yeah. So click like one of their websites and you can go to similar web. Each website only has something like 50, 000 visits, I believe. It's like, it's like not a lot, but they're doing something like 12 or $11 million a year revenue and like three or $4 million a year in profit. And this is a B2B, hardcore B2B site. They make their money through lead gen. So basically I imagine they'll do like a webinar or something. And if you like are in the nursing home industry, you give them information. They also have ads. And I think, I don't know if they have podcasts, but they do have newsletters on their site. This is a hardcore B2B.
+
+0:37:18 Shaan: This is yeah.
+
+0:37:20 Sam: And I love it. I love it. I love this.
+
+0:37:23 Shaan: You just did this guy such a disservice by siccing four to 40 copycats on him. If I'm talking about how good of a business this is on here.
+
+0:37:33 Sam: Well, no, so look, I D&M'd him.
+
+0:37:34 Shaan: People who listen to this podcast are like, if Sam or Sean say the N-word, I don't mean the N-word, I mean newsletters. If they say that this is a good newsletter business, the instant copycats, bro, they saw what you did with the hustle, they saw what I did with the milk crowd, They're instantly looking for a new newsletter to clone.
+
+0:37:49 Sam: No, no, no, no.
+
+0:37:50 Shaan: I apologize on behalf of whoever this guy is.
+
+0:37:52 Sam: I DMed him. I DMed him in Hampton. I go, hey, don't tell me anything, but just can I talk about your company? And I said, here's what I see on Similar Web.
+
+0:38:01 Shaan: He didn't know what he was saying yes to.
+
+0:38:03 Sam: No, hey, I got permission. I go, here's what I see on Similar Web. This is what I'm gonna say. Are you cool with it? And he gave me a thumbs up, like literally a thumbs up emoji. That's how I roll. I get that emoji, we're good. That's a hardcore B2B media company. So anyway, my point with this turpentine thing, I think it's cool. I like it.
+
+0:38:21 Shaan: I think it's cool. I hope he pulls it off. I've thought about doing this idea actually in the past. I ruled it out for a bunch of reasons, but- It's boring. It doesn't mean somebody else can't do it. I think it'd be great to do. It takes a lot of energy and I'm totally with you that I hope he didn't raise money. In his tweet thing announcing it, he didn't say like, so happy to have Marc Andreessen investing in this. So I think there's probably a good chance he raised money, but he didn't raise, okay,
+
+0:38:45 Sam: He didn't
+
+0:38:45 Shaan: raise money. So I hope he is taking it that way.
+
+0:38:48 Sam: Well, you probably learned from from his other company on deck, like that's another company where I think they raised a hundred plus million. I forget, but I think the valuation was five hundred million dollars. So I don't know how much they raised, but I imagine it was the Nine Figures. That's another company where it's like, that could be cool if you don't raise money. Basically, screwing up your cap table is like one of the only mistakes in business that you can't really make up for.
+
+0:39:13 Shaan: Speaking of screwing up your money, Can I tell you what I did post Milk Road with the money that we made?
+
+0:39:20 Sam: Well, I do know that you sent me a text. I have to go look at when that came and you said, I've sold all my equities. I think it's gonna go, I think the market's going down. And since then, it's double. It's about double. So I know you did that with your money. So what else did you do?
+
+0:39:41 Sam: So I
+
+0:39:41 Shaan: tell you about my next best decision?
+
+0:39:43 Sam: Yeah, what else did you do besides not
+
+0:39:45 Sam: make money off your money? For the record, for the record,
+
+0:39:49 Shaan: I've actually I would be about even from where I was with my equities on that because I kept well, I kept a portion of it, but I also the stuff I sold has not doubled. You just look at HubSpot stock because you're like, I got HubSpot. You're like, HubSpot is the market. HubSpot is not the market exactly. I'll tell you that. Let me tell you about what I did. We got this money, so we sell Milk Road. Now there's cash hitting a bank account. Got a couple options. So it's like, do we just buy treasury bills, make 4% on that?
+
+0:40:22 Sam: What bank did you use?
+
+0:40:24 Shaan: What bank did I use? What do you mean?
+
+0:40:26 Sam: You use Chase or one of the other ones that got screwed up?
+
+0:40:29 Shaan: There's no upside in answering this question.
+
+0:40:31 Sam: Did you use one of the ones, were you using one of the ones that got screwed up?
+
+0:40:34 Shaan: No, I didn't use Silicon Valley Bank. No. Money sitting there as I could buy Treasury bills. Now, that's too boring. Could do what Sam does. I could just index into the stock market, it's reasonable, but I think it seems like we're coming off of a 13 year bull market. Don't really need to put the full amount in right now. Let me just wait and see what happens there. Is there something that can do better than the eight percent that I might be able to get on that? I thought, well, should I invest in a new company? We start, I don't know, maybe if we have a great idea, we'll do that, but let me not do that. I started doing this process where I was like, I worked backwards for basically like, can I get 30% a year compounding? And 30% a year sounds like a high number, but we have a few friends who have done it. And the way that they've done it has been through buying private companies. So they buy businesses and they own them. Andrew Wilkinson, I think is the one that most people who listen to this pod will know because he's been on a bunch of times and talked about this, how they built Tiny from a few million dollars into $500 million by doing this 30, 40 percent compounding over time. Did we
+
+0:41:44 Sam: have the Tiny annual report? We'll have to talk about it next time.
+
+0:41:48 Shaan: Yeah, I read this annual letter. Yeah. We have a few other friends that have been doing this as well that are less public about it. I said, okay, well, let me do that. I said, but I don't want to buy these companies and operate them. I thought, what if I bought 30 percent stakes? It's like, can I buy a minority position in companies, so that they keep running them, but I give them capital? Basically, the founder oftentimes was not taking a lot off the table, or they were always worried like, should I put this in my pocket, and spend this? Well, I don't know, what if the company needs it? Even if we're profitable, they were worried about that. I say, here, let me give some money, and then could I help them grow? I went through this exercise. I don't think I've told you about any of these. But I talked to about 25 companies in the last, I want to say, six months.
+
+0:42:33 Sam: Dude, every company that you talk to DMs me and they say something of a variety of, I was talking to Sean and now we're not talking anymore. But they like, they like message me to like, talk to you and I just ignore it.
+
+0:42:49 Shaan: Yeah, you're like the wingman who refuses to wing.
+
+0:42:53 Sam: So you don't have to tell me which companies, I already know probably half of them.
+
+0:42:56 Shaan: My funnel was this, I was just doing a review of this, I thought it was kind of interesting. So talk to about 24 companies, I think. Got serious, like did diligence. I would say talk to means like, talk to means like I was interested. Obviously we looked at a little bit more than that, but talk to was like, oh, this could be interesting. Well, you could kind of squint and see a possibility. Then got into kind of like more serious talks that either negotiated numbers or diligence with about nine, got to a LOI stage with three or four and ended up doing one deal. And the last, I wanna say six months post sale. And so this range from everything from, so newsletter businesses, OnlyFans businesses, journal apps, virtual events, bookkeeping companies, merchant companies, and then a bunch of random stuff that I know nothing about that we're like, oh, that sounds interesting. Like some company that does something called laser peening on machines to make the parts last longer, and their clients are like Boeing and stuff like that. Or autism clinics that seem to make a ton of money, but I'm like, okay, I don't really know how I would add any value to this. In each one, I was like, all right, can I find a good operator where I can acquire minority stake of the business at a good deal, and I can help them grow? Ideally, they're the category winner for what they do. And so that was kind of like my process. I want to before I tell you about the deal that we ended up doing, I want to hear any thoughts or questions on my approach here, because there's a bunch of learnings.
+
+0:44:29 Sam: Yeah. There's no way you're going to get 30 percent for that long, right? Do you actually think that's possible?
+
+0:44:34 Shaan: What do you mean for that long? That long means what?
+
+0:44:36 Sam: I don't I mean, I don't know anything about markets. I haven't read like a Warren Buffett biography, but like, what's he compounded at every year?
+
+0:44:43 Shaan: Oh, yeah, he's been at 20 percent for like 50 years or something.
+
+0:44:47 Sam: OK, but if you if you got to pretend 10 years, that'd
+
+0:44:49 Shaan: be dope. He's putting billions and billions of dollars to work and that's very different.
+
+0:44:54 Sam: Right. Okay. I think that's smart. Do you think you're going to enjoy this? I think you'll enjoy it, right?
+
+0:44:58 Sam: I'm
+
+0:44:58 Shaan: not sure. This was a test basically to see is this fun to do? It's definitely fun on the learning side. Now that we made the first acquisition or the first I would say not acquisition, like kind of minority investment. And it's different than startups. Like we've done startup investing. Startup investing is very, very different. Startup investing is you look at a business, you're trying to figure out, is this, are these three dudes in this bedroom gonna be able to build like a multi-billion dollar company? Right, like is this husband and wife couple gonna be able to pull off this, this gargantuan exit? And like kind of right now they have usually nothing, just an idea, product, maybe a little bit of traction.
+
+0:45:34 Sam: Yeah, it's way more of a lottery.
+
+0:45:35 Shaan: It's a lottery and you put in a $100, 000 and then you do that with 40 companies, and you know that 38 of the companies are going to be just a write-off or cost of doing business, and two or three of those 30 or 40 companies are going to be your winners, but hopefully they're winning at 100x or 1, 000x or more returns. It's very lottery-like and you spend very little time with them. So you're not like, they don't want you advising them. You answer questions when they call, you can proactively nudge them a little bit, but you're mostly hands-off, I would say, angel investing. Whereas if you buy 15, 20, 25, 30 percent of a business, you're a little more involved. You're a little more active. These businesses are not like all or nothing businesses. They're like, it's already a good business, it's profitable, and it's already growing. So the question is, can we accelerate the growth? The one business we bought is, I don't know, super profitable. It makes millions of dollars a year in profits. It's more than 50% margins. And we were able to buy a piece of that. And I think that that's just so different than every startup investment I had ever done. It's probably not gonna become a multi-billion dollar business. I would almost guarantee that, but it doesn't need to. It's not supposed to. It's a cash flow business. And so...
+
+0:46:48 Sam: Is it funny how you have mocked me for like the last eight years about my slow and steady approach and now you're, you know, look, you're still At first it was like laughing at 8%. I'm going for 10x every year or whatever. Right. Now it's coming down. Now 30% is really attractive, which I agree that is really attractive. Before you know it, you're going to say.
+
+0:47:13 Shaan: No, dude, that's not true. Even in a startup fund, even when you have your winners that become billion dollar companies, the overall fund, like a great fund is doing 30 percent IRR or 20 percent IRR. Look, I'm
+
+0:47:25 Sam: just saying you're getting more boring.
+
+0:47:26 Shaan: It's still
+
+0:47:26 Sam: the same. You're getting more boring.
+
+0:47:29 Shaan: No, it's down. I reject that. I reject that premise. I would
+
+0:47:32 Sam: say that. Bro,
+
+0:47:33 Sam: you used to make a live streaming app and now you're looking at a company that sells parts to Boeing. Who?
+
+0:47:41 Shaan: But cashflow is always interesting. It's always been interesting. And Now it's more interesting than it was in the past. I really didn't have a lot of exposure to these types of business. I lived in San Francisco. You say cash flow and people think you're talking about like a leaky faucet. Nobody knows what the hell that means. Once I started doing this podcast, we got a lot more exposure to, like most of the people who listen to this podcast are entrepreneurs all around the world. So when they reach out about their business, it's like, oh, this guy in Minnesota with this marketing agency that does this per year, or this person sells parts and this person does whatever. They're rolling up bookkeeping services. So you learn about different types of businesses more through this. So I've been getting my MBA on non-Silicon Valley businesses for
+
+0:48:25 Sam: the past two years. Look, the cool thing is that we research stuff. If I really dive deep into a topic, I'll research it for eight hours. And I, that's not enough to make an investment, but it's enough that I say to myself, Oh, wow, this space is really intriguing. You know, I could see myself doing this, you're doing that, but instead of eight hours, You're doing weeks. And so it's oddly in the similar vein a bit. Of course, you have to do more due diligence and actually look at the numbers and get to know the people. But yeah, it's like getting used to the space.
+
+0:48:56 Shaan: So the most interesting thing is what happened between the four deals that we signed LOIs on and the one that we closed. And I'll try to do this without giving away any info about the companies that we didn't do the deal with. I can talk about the one we did, but I can't talk about the one we didn't. But the things I, the reasons that, the mistakes that we were making along the way, here's trap number one that we already experienced. I can fix him. Like the classic girlfriend mistake, like, yeah, he sucks, but maybe I could fix him. It's basically like, maybe I can fix this business. And when you do this minority investing, you're not the majority, you're not gonna be able to fix anything. And so that was, you know, trap number one was getting really far down the road with a business that I thought had a ton of potential before finally realizing I'm not gonna be the one to fix it and fixing it is the wrong approach to going into a business like this. That was mistake one. Mistake two was, I can totally see this working, but working at a small scale. And so you have to remember basically like as you play the game, it's kind of like, this is how I felt about your Airbnb, which is like, you do one Airbnb, you basically can't do one Airbnb. You can only do one as a test to see if you want to do a bunch. One Airbnb is like a bunch of headache without the size of the prize being big enough. And so we had looked at one business that was like, yeah, this could be-
+
+0:50:18 Sam: Which is what I have, by the way.
+
+0:50:20 Shaan: Yeah, yeah, we all make this mistake. But I think you were at least looking at it the right way where you were like, maybe I could do a bunch of these. You talked to people that had 50 of these in their portfolio, and you have to do one to know if you want to do 50. And so We got really far down the road with this one, that if it all worked, it's like, dude, we could be making $200, 000 a year off this. It's like, wait, what are we doing? Why are we doing this? Yeah, it's a great deal and it's highly likely to work, but it's highly likely it's going to be very small and not worth the mindshare of even doing this. So we pulled out on that one. The one that we did was basically, people probably know. So this one was not company first.
+
+0:50:55 Sam: Are you going to name it?
+
+0:50:56 Shaan: Yeah, I can name it now. It's official. So we first looked at the category. So I was super bullish on companies that let you hire internationally. So specifically like how to hire the field of lizipines in Latin. And you know this.
+
+0:51:07 Sam: Why? Why were you interested in that? What insight did you have?
+
+0:51:09 Shaan: Like kind of scar tissue. Like, dude, you came to my office. I remember you came to my office in San Francisco when I was doing Bebo and you were like, what's your burn rate? Which again is like a question nobody asks somebody else out loud. It's like, you know, that's like asking somebody that's asking a woman their weight, like ask a founder their burn rate and see how they feel.
+
+0:51:25 Sam: Yeah, in my head I was like, that's bubbly. You had a bubbly burn, man.
+
+0:51:28 Shaan: And I was like 3 million a year. And that's what we were, we were Basically a startup that was burning 3 million a year pre product market fit because that's what it caused. We had we basically had a team of engineers. So we had like, you know, I don't know, 10
+
+0:51:39 Sam: to 12 a month.
+
+0:51:40 Shaan: 10
+
+0:51:40 Sam: to 12 engineers. It's like 200, 200, I
+
+0:51:43 Shaan: think we were doing like 240, 000 a month in burn.
+
+0:51:46 Sam: So you get like. And that's net burns. Does that mean no, does that assume no revenue?
+
+0:51:51 Shaan: We had revenue from one of our projects, but like, no, I was just saying like the overall bill. So. So we basically you hire 10 people that are 200, 000 each, you're doing two million plus you pay rent, plus you have your Cloud bill, especially whatever else. That was really expensive and those were all Silicon Valley engineers and they were below market. Those people, if they're working for us for 200K, they could have been making 400 or 500K at Facebook, but they wanted to be a part of a startup. So I did that and it was very stressful to have a very high burn rate for a company. I just didn't like it, but I didn't know any better at the time. And then afterwards, as I get a little more savvy, like with our ecom biz, we'll do probably somewhere a little under 20 million this year in revenue. We're profitable because 65% of our team is overseas. So we have our data analysis person, Argentina, our designer, India, our customer service, Philippines are the person who's running our whole wholesale channel, like built it from scratch, it did not exist. And now it's like a new revenue unit in the Philippines. And we did the same thing with Milk Road. We were profitable with Milk Road from day one. Like I remember coming to your office at the hustle and you had like, I don't know, 15 people running around there in San Francisco and that's a bunch of San Francisco issues. They have to go home and pay $6, 000 rent, so you got to pay them money. For us, we had one person in the US for Milk Road and we had everybody else in the Philippines. It was again, lean, mean, profitable machine. And I was like, oh, not just is this cost savings. If you hire someone in the Philippines, they're basically 10 times cheaper than the US. So you can hire somebody in the Philippines for $1, 000 a month, so 12, 000 in a year. That same person in the US will cost you 80 to 120K. These are skilled people like in Latin, I'm like the guy we have doing our data stuff. He's got his MBA. These are highly educated, he's like a wizard with Power BI and Looker, and all these data tools that I couldn't even start to use. Do you
+
+0:53:47 Sam: get to know?
+
+0:53:49 Shaan: Yeah, of course. I'm talking to them all the time. The one good thing is, especially with the Philippines, this sounds terrible, but I'm going to say it anyways, because it's honest, I hate managing people, and I love hiring people in the Philippines because they need so little management. Like I- Why
+
+0:54:05 Sam: does that sound horrible? What did I miss there?
+
+0:54:07 Shaan: Because I think what people want is for you to be like, I'm a good manager and I talk to my people and I'm like, dude, it's fucking great. I only talk, like, for example, my assistant, I only talked to her on Fridays. People are like, well, that's kind of mean, or like, it's great. They don't want one-on-ones in like career trajectory coaching. And they don't want like, like the same, like in San Francisco, I had, let's say I have eight direct reports. That's eight weekly one-on-ones I had to do. That's essentially eight hours out of the 160 hours a week that, you know, that I have that I'm like, you know, I'm spending doing basically like touchy feely stuff, which is fine. I understand it, but it's really nice when you don't have to do that because it's not the baseline expectation.
+
+0:54:46 Sam: There's a bunch of roles where you don't want someone who's entirely ambitious. Like with an assistant, it's like you don't want someone that's like, no, I don't want to give you all these other opportunities. I want you to be great at this thing and not bail. Like This is what I need. This is the tool that I need and I want you to be that. I don't want to have to promote you tons and tons of times. I've hired a couple of
+
+0:55:07 Shaan: people for our hold co basically. They're cool, they live in San Francisco, they're awesome, they're super motivated to work with me. I'm like, great, what do you want? Like, I want to be you. And I'm like, wait, what? And then I'm like, cool. Like, you know, someday they're like, yeah, but I'm also spinning up my own newsletter, my own podcast, my own investment arm. Like I'm like, okay, well, like that's great. You could do that. But that makes for kind of a shitty person to hire onto my team, because like part of being on this team is being down for our mission, not like your own mission necessarily. And I totally get it if you want to go do your own mission, but you got to go do that on your own. You don't get to have both, you know, at the same exact time. You could do one and get mentored for a bit and then go do your own, but you can't do them at the exact same time. It has been very nice to have people that are just like, literally like our management style is they log in, they say, log in in, here's what I'm doing today. If you have any adjustments, either you say something, if not, you just don't say anything. At the end, they say, log off, here's what I got done today. Here's everything I did, here's the files, here's the info, log it off.
+
+0:56:07 Sam: So how much are you spending now on these folks?
+
+0:56:11 Shaan: I mean, dude, I have like, in my own companies, probably almost 15 to 20 people that are international now.
+
+0:56:19 Sam: And so- And what's the average salary?
+
+0:56:22 Shaan: It ranges, so like On the low end, 800, I think about it monthly because that's like when I push payroll, that's what it says. Eight hundred a month would be the low end, and that's I got to say most common. So that's a customer support, personal assistant, things like that can be that low. Then the higher roles will be like 2, 500 to 3, 000. Then there's one guy who's just amazing and I've promoted him up twice now. Now he gets paid like a US employee because he makes the impact of somebody who's like driving a ton of growth. So I'm like, oh, great. Like you keep getting rewarded. At some point you break breakthrough where you're if you're driving growth, you get rewarded for driving growth.
+
+0:56:57 Sam: And you also I got an email. You have a course on this now, too.
+
+0:57:01 Shaan: I have a course on the personal assistant side. Yeah, I just created it. It's not even a course actually. It's just I don't like I don't go and teach it. It's just a system. It's like, yo, basically the best hire I made this year was I hired my personal assistant and I had thought, okay, personal assistant is, you know, personal assistance like for rich people for like mega it's like for Jeff Bezos. It's like mega busy, mega rich. I also was like, I don't want to have to tell somebody what to do all the time. Like that sounds like its own pain in the ass to come up with shit to do. Then I heard a few friends talk about theirs and I was like, maybe I'm wrong. Let me open my mind to the possibility that I'm wrong about this. Three people tell me, three people that I trust tell me that it's like been a huge game changer for them. Let me try it.
+
+0:57:40 Sam: Dude, send it to me. I want to use it.
+
+0:57:42 Shaan: I, I mean, I want to use that. Yeah, I basically created the whole thing last week and I was like, here's my system. So for example, here's my email system. I used to be terrible with email, and now my email system is super organized on top of shit. Here's exactly what I do. Here's the exact scope of work. Here's how it works.
+
+0:57:57 Sam: I just texted Ben. I said, send it to me.
+
+0:58:01 Shaan: Yeah. By the way, there's a funny offer we did with it, but I'll explain the company that we ended up investing in. So I looked at all the ways you could do this. I'd done all of them. So you can hire direct. If you want to hire somebody in Ashley, you can basically have three options. You hire direct. So you hire somebody on like a job board, Upwork, online job, something like that. Upside, it's basically free. You just pay the software subscription like $99 a month. So you pay $1, 000 for the year to be a pro member on there. Downside, you have to do all the hiring, vetting, training, sifting through candidates yourself. You put up, hey, I need a customer support person or a personal assistant, you're going to get 200 applications and good luck trying to find somebody good. You could also go on the high end and use a managed service. This is things like Growth Assistant or Athena. They're great. They do the vetting for you, but there's this huge upcharge. So those guys charge you three grand a month for somebody that actually costs $800 a month. So you're paying 3x the price or more every single month forever.
+
+0:59:03 Sam: How big are those companies? How big is Athena? I heard they're huge.
+
+0:59:05 Shaan: They're big. They're big because this is like a huge ARR thing for them, and people don't really know about it. People don't really realize you didn't have to pay triple the price every single month. That's one path. But they're good at what they do. I've tried them. I've tried a bunch of these. The one I liked the best was the one we ended up investing in, which is Shepherd. So people have probably heard of Shepherd before. I think the URL is supportshepherd.com. Why I liked Shepherd was it's kind of best of both. So they do the filtering, screening, background checks, all that stuff. So basically you just say, I want a personal assistant. They present you three great candidates. So they present you five great candidates for you and they're filtered, they're checked. And they're basically like, these are the best of the best. So they save you a shit ton of time, which is like, as any business owner, you need that. On the other side, you don't have to pay the monthly upcharge. So they'll say, great, you can make the hire directly and all you pay is the one-time finder's fee for us having found you the candidate. And so it ends up being 10 to 20 times cheaper than these other ones in the long run because you just paid the one-time finders fee. I like that model the best. I was like, long-term, I think this is the most sustainable. Because if I'm making in my business, like I did, 15 hires internationally, I don't want to be paying like this bloated cost every month from there on out. Nor do I want to do that, all that work myself. So that was the business we ended up investing in. Super excited
+
+1:00:23 Sam: about it. The branding on their website. So it's supportchepord.com. Yeah. You have to be one of the testimonials. You need a testy on there, But it looks good. It's cute branding. So Marshall Haas is the guy who started it. Marshall, I've known Marshall since 2012, maybe. He's the type of guy who, whenever he does something, it's awesome.
+
+1:00:45 Shaan: It looks cool.
+
+1:00:46 Sam: So like, if you follow him on Instagram, on Twitter.
+
+1:00:49 Shaan: He's got showmanship.
+
+1:00:50 Sam: He's got showmanship. He's got the juice. He's got the juice. So whenever, like, for example, I think he just bought a new house and I'm like following the bill of the house. He also like he likes cars. So like I saw him like redecorate his garage.
+
+1:01:03 Shaan: He owns like a boutique hotel. He did this like e-commerce thing that was like super simple and actually like a really good, like, you know, a successful business, successful e-comm business that was just like, it was like a phone case. And Like, you know, it was just that. And like when COVID came out, they came out with this little like hook thing, like your Captain Hook. I was like, you can use this to open doors without having to touch the knob like a peasant.
+
+1:01:24 Sam: I was like, dude,
+
+1:01:25 Shaan: this guy's great. He just makes these like simple little businesses. And he runs all, the reason he did this is He ran his businesses using international hiring as his workforce. So then he partnered with this guy in the Philippines, opened up an office on the ground there with a bunch of recruiters to do all the vetting locally on the ground.
+
+1:01:41 Sam: Is he going to the Philippines?
+
+1:01:42 Shaan: His business partner lives there and has the office open there. So you got to commit if you're going to do these types of things. And so he basically partnered with the guy who's doing that, and that's how they created Shepherd. And it started off just like solving their own itch, but turns out like a lot of people have this itch, and myself included.
+
+1:01:59 Sam: So if he, I'm not used it, but I will. I will use it. I would like to use I'm literally I just texted Ben. I really actually want your course. I want to figure out how you do this because I want this and maybe I'll use these guys. But if his business is going so well, why would he sell a portion to you? Like my head is I'm greedy. I'm like, get the fuck out of here because I mean, obviously we're going to drive him a little bit or a lot of bit of traffic in the pod. Will is that the only reason why he would do this?
+
+1:02:30 Shaan: Yeah, basically they don't spend any money on marketing at all. So the way that it spreads is just word of mouth, people coming back, and then the other one is like entrepreneurs who have an audience saying the word. So they first did this with Nick Huber. And Nick has drove them a ton of business because Nick uses it for all of his businesses. And so when he talks about it, they get a bunch of traffic. So I think he saw the success of that. And basically, we have a large audience now, like through Twitter, through this pod, through other things. And so there's obviously a benefit of, I don't know, like the brand association, like as well as like, you know, the ability to reach, you know, reach a large audience that I think was appealing to him. But I bought in, I didn't get free shares, right? Like I bought, I bought into the equity pool, but I agree with you. When you have a really good business, you're always hesitant. It has to be the right fit. The other benefit was he listens to the pod. If you listen to this, you know how we think, and you can agree and be like, this person's great or this person's an idiot. You know if you would want to do business with them, if you listen to the pod regularly, you have a very good idea. There's no hiding our personalities on this.
+
+1:03:36 Sam: Do they have a MFM coupon code? Is it coupon? If you go
+
+1:03:41 Shaan: to my website, if you go to champery.com slash remote assistant, basically here's what I got them to do, which is better than a coupon thing. So I was like, all right, if you want to do the personal assistant thing the way I did, I was like, all right, here's my systems, 250 bucks, you get the whole, like all the templates, all the thing or whatever. But I was like, I only want to make money from people who don't take action. And So here's how it works. Basically, if you just buy the course and you don't actually hire an assistant, I keep your money. But if you actually go to Shepherd and you hire your assistant, then Shepherd will give you 2X the money back. So basically you pay 250, you'll get $500 if you actually take the action and go higher. And I was like, that's kind of a no brainer offer. I was like, Marshall, we got to do this. Do this where if people want their own assistant, and they actually take their action and go forward with it, pay them back not just what they paid for the system, pay them double because I bet a bunch of people are just not going to take action, but who cares? I want the people who will take action to be rewarded for doing so. That's a pretty sweet deal. Basically, you essentially get my system for free, plus you make an extra $250 if you actually go forward with it and make your hire.
+
+1:04:45 Sam: First, if you're into this shit, I have no stake in this by the way, but go to support Shepherd. I do want them to sign up because here's what I want. I want you to report back and I want to hear if this whole influencer buys companies thing actually is good. I want the results to be reported back in like a month. And so I am curious to see like what the demand is. I bet it's going to be quite good. Number two, what I'm curious to see is if you like this. I don't know if you're going to
+
+1:05:15 Sam: like it
+
+1:05:15 Sam: or not. I can see it going 50-50 either way. So far, how do you feel? I mean, look, if this deal works, then this is the greatest thing on earth.
+
+1:05:22 Shaan: Well, this one is a
+
+1:05:22 Sam: no-brainer, right? But that's not
+
+1:05:23 Shaan: the hard part. This is already a successful company. I'm already religious about hiring internationally anyways. Personally, in my own businesses, it's like I didn't have to be convinced that this is a good idea. Like I already knew there's a good idea. The question was, am I going to start my own of these or should I invest in one that's already working that I like, that I use? And I was like, okay, cool, let me just do the second one that seems like way less work to do that. So I think this one is kind of a no brainer in that it's kind of a proven business. I am a genuine believer in it. Whether we actually drive extra traffic to them or not, I think it's like, I don't know, obviously for them they want that, and I would like that too, but for me it was already a working business.
+
+1:06:03 Sam: What percentage are you, is that too much to ask or to reveal? Yeah, I
+
+1:06:06 Shaan: don't want to disclose that here because I think, you know, it's their business. I don't want to give that away too much, but, you know, it's a good chunk.
+
+1:06:14 Sam: I think, Do you think they'll ever sell the company or do you make your money just through dividends?
+
+1:06:18 Shaan: Yeah, just dividends. Like it's a profitable business. It just pays out dividends. Like I got our first dividend check yesterday. It was awesome.
+
+1:06:25 Sam: You did? You got one already?
+
+1:06:27 Shaan: Yeah, it was fantastic.
+
+1:06:29 Sam: This is going to be your seized candy, maybe. I mean, if this works out, that's exciting. I'm curious to see if you're going to like this because on one hand, I can actually see you loving this because you get to spend time seeing how things work and you get to use your skill set, which is content to tell people about it. Like this segment that we just did, I'm actually interested. I want to keep talking about this just because I want to hear the story about it. I think that's interesting. And so it's kind of a win win in that regard. But I'm curious if you're going to enjoy all the due diligence. Like when I talked to Andrew Wilkinson, he actually, I don't think does a lot of the due diligence. He's got a team to do that. If you are able to pull that off, I think you'll be in a win situation. So as long as you like doing that.
+
+1:07:07 Sam: Yeah, I'm going
+
+1:07:07 Shaan: to try it with two or three. This one I knew was a slam dunk because I'm just like, just a total believer in it. What's going to be interesting is what happens with ones that aren't like perfectly in my zone of like, I get it, I used it, I believe in it. This one was like bullseye. I don't expect every business to be exactly bullseye. So the question is, what happens when it's not exactly? Is it still fun? Do I still believe? Am I still willing to talk about it? This one I'm willing to talk about because I'm like, I literally wouldn't have my econ business work the way it does or Milk Road worked the way it did if I didn't use this strategy. So I'm like, I could talk about that. Now what happens when it's like one degree separated from that? Am I still going to want to tell a story on it? Maybe it's not even that interesting of a story. I'm not going to do it. Like, I'm not going to come on this podcast and bore everybody with like a story that's not that great. So I can't I can't commit to that yet. But I don't know if somebody wants me to buy, you know, a minority stake in their business. Hit me up. Let's see. Let's see what happens. I'm gonna try two or three of these and see how it goes. BRIAN RASKINEN
+
+1:08:02 Sam: Was there anything that you learned looking at the 24 other than what you said about the... Like, fix me shit? Like, was there anything, any other revelations, not necessarily about what they had wrong with them or, but maybe what they had right with them, any commonalities between the winners?
+
+1:08:19 Shaan: Yeah, definitely. I would say that the businesses that I was most interested in were ones that had a clear sales model, I would say. So they knew how they were gonna get their customers now and in the future. And I don't wanna say moat, cause it's like, you're just trying to be Warren Buffett. It's not like something that had a moat, but they had either recurring revenue or they had something that was like, they're actually the category leader, they're the go-to leader and that there's some reason why they're not just going to get copied into oblivion by everybody else. Maybe they have operational advantage. Maybe they-
+
+1:09:02 Sam: What's Shepherd's? I think branding is actually, that separates them here. I think they look cool. Is there anything else?
+
+1:09:11 Shaan: Yeah. I think Shepherd's real advantage is that they picked a business model that's actually more customer-friendly, like I said. So if your two other options are spend a bunch of time, have a bunch of uncertainty, hire somebody un-vetted, and you save a little bit of money, or pay a 3x monthly upcharge, that you're kind of nuts to do the 3x monthly upcharge for a long period of time, especially if you're going to hire multiple roles and eventually in your company, like just not a sustainable path. To me, Support Shepherd's choice on the business model separated them from the current competitors. Now, somebody else could try to do it, but what are they going to have to do? They're going to have to go set up boots on the ground in the Philippines and in Latin and really be good at recruiting recruiters who are then going to recruit the talent to actually deliver on these roles and hire high quality people. Because they don't really, like the money's not made in your first hire. The money's made when you're like, you see the light and you come back to them for your next six hires. Like what I did with e-comm is like, I started with customer support and I was like, cool, I need somebody who can do inventory forecasting. People in the US really expensive for that, 140K for that role here. Could I find somebody overseas that could do inventory forecasting? Can I find somebody that can run our Amazon ads? Can I find somebody who could do wholesale as a channel? Like, can I find people that do influencer? Like, you start to be like, oh wait, this isn't just about what it used to be, which was like VA's equals low cost labor. Now it's like, Dude, they're pretty talented people that could do these things. They got three or four years of experience doing that at another company. And so you're able to just pluck from the remote talent pool versus just your local talent pool.
+
+1:10:41 Sam: Dude, I'm excited to see how this turns out. At Hampton, do you
+
+1:10:44 Shaan: guys have any overseas people yet or no? Yeah.
+
+1:10:48 Sam: Yeah, for sure. We have like the guy who made our website is overseas and he's on staff. We have our accounting folks that who like, they're called fuel finance. They're overseas. If you go to, like we have this whole backend thing built where people can log in. It was built by a guy in Hong Kong. Yeah, we have a ton of overseas and Marshall's a member. And so we're gonna actually thinking about starting to use them for some data analytics stuff. So yeah, it's like a lot of overseas stuff.
+
+1:11:17 Shaan: When I was using for our Ecom thing, a lot of Ecom people use agencies. I'll hire an agency and then they're like, great, let's add, can you add these three people to Slack and all of the hands
+
+1:11:27 Sam: on Filipino names.
+
+1:11:27 Sam: Dude, and you can tell by their names.
+
+1:11:29 Shaan: Yeah. And I'm just like, So like, for example, Design Pickle, I think is like a $10 million a year business to basically like design unlimited designer on demand. We tried them out for a little bit. Every single designer is in the Philippines. Then I hired this email marketing guy. I was like, oh yeah, just do our email marketing at Flows. He's based in Colorado, Every employee is in the Philippines. I was like, okay, that's another one. I hired a website, a web dev shop. Got owners in the US, entire team is in India. Another one that did the entire thing in Ukraine. And it's so funny that people are basically, this is now a business model is basically like, owner in the US does sales, fulfillment all done by, and they're good. I'm not even saying this like a bad thing. Like they're talented, but I'm like, wow, this is a whole business blueprint, a template that they could use to basically like, make the margins work.
+
+1:12:17 Sam: What are you gonna go there? When are you going? When's- To
+
+1:12:20 Shaan: the Philippines?
+
+1:12:21 Sam: Yeah, when's Neckbeard Nation going to the Philippines?
+
+1:12:26 Shaan: We should host the next live pod there.
+
+1:12:29 Sam: Do we have a following there? I have no idea.
+
+1:12:31 Shaan: Unfortunately, I don't think we do. I don't think they give a shit.
+
+1:12:35 Sam: Dude, you got to go there.
+
+1:12:36 Shaan: I've been in the Philippines. It's awesome. Very hot.
+
+1:12:39 Sam: Tonight, I've never been. I'll go. Tonight and tomorrow, I'm taking a 15 hour road trip in my Tesla. My first time doing it. We're going to see if I love it or hate it. So I'm going to report back on Wednesday.
+
+1:12:49 Shaan: 15 hour, you said?
+
+1:12:51 Sam: It normally takes 12, but you have three hours for charging.
+
+1:12:55 Shaan: I did a charging road trip. It's horrible. Where are you going from? Where are you going to? What's the distance?
+
+1:13:00 Sam: Austin to St. Louis.
+
+1:13:02 Sam: Okay. I'm
+
+1:13:02 Sam: going to visit my family.
+
+1:13:04 Shaan: What did you get, the X or the Y? Which one are you doing?
+
+1:13:07 Sam: X, long distance, 350 miles.
+
+1:13:09 Shaan: Is it a new one? Because the thing I screwed up was the one I rented on Turo was like five years old, and it just needed charging every 90 minutes. It was an awful experience. Well, how fast you go? I mean, it's like highway, right? So you're going like whatever, 75 miles an hour.
+
+1:13:23 Sam: I mean, I speed usually. I'll go 85 or 90, so we'll see what's going to happen.
+
+1:13:27 Shaan: It crushes the battery. It absolutely crushed the battery. At least that one that I had, it absolutely crushed it. We had a terrible, we did a seven hour
+
+1:13:34 Sam: ride in
+
+1:13:35 Shaan: 14 hours because we had to charge so many times.
+
+1:13:38 Sam: And by
+
+1:13:38 Shaan: the way, you know the charging thing? It's not like, you can't just like charge, like there's like certain charges that are fast and some that are slow, you know?
+
+1:13:45 Sam: Like don't you just use the thing on the screen that like tells you what to do? Or like the screen tells you where to go. Tells you where the
+
+1:13:50 Shaan: charges are. But I'm saying some of the charging stations and some of the spots are fast chargers and some are slow. Like there's a, like it's like a gas pump where one will fill it up and twice the speed as the other. So make sure when you do it, you know that. So you go only to the fast chargers and none of the slow ones. The slow ones are like, you'd have to be like, I wanted to go watch a movie so that I could do this slow charge.
+
+1:14:12 Sam: No, I use, there's this app called A Better Route. I think it's called this guy. Like has built this whole like thing just on routing out people's electric charges. And so I'm going to use that, but my wife's, my wife's flying and I was like, I'm driving, I want to drive, but I want to see what it's like. And so I'm driving and I'm going to report back on Wednesday to see how it feels. I did it. So I I'm going to leave tonight. So I'll get a few hours in, and then tomorrow, that way I can, like I plan my life around this pod, because I was like, we record 11 my time, like I can't arrive that morning, otherwise I'll be like, tired, I won't have to head to research.
+
+1:14:44 Sam: So
+
+1:14:44 Sam: I have to plan it, so I get there Tuesday night, but I need a full night's rest, so I can wake up and research and shit. Do you plan your life around this, Pod?
+
+1:14:52 Shaan: Yeah, to an extent, right? Like, you know... This is the one unmissable appointment on my calendar. Everything else is flexible.
+
+1:15:00 Sam: This is
+
+1:15:00 Shaan: the one non-flexible thing.
+
+1:15:01 Sam: It's no days off. I think, I mean, we've recorded on like Christmas.
+
+1:15:03 Shaan: We missed last week though, so I guess we can't really say that right now.
+
+1:15:06 Sam: Well, wasn't there like an issue?
+
+1:15:08 Shaan: Yeah, we had a sound issue, but we were like, no days off. People were like, you missed last, the last time.
+
+1:15:13 Sam: That was like a technical error, but we've done like whatever the most recent holiday is, we were recording whatever. I think we've done Christmas Eve before. We always record.
+
+1:15:21 Sam: SEGURA BAYNARD
+
+1:15:21 Shaan: Big thanks to everybody who listens. This is a fun thing for us to do. Thank you for listening. Yeah, this is like one of the dope parts of our life. And I think it's attracted a bunch of like, I mean, neck-beard nation, right? So It's attracted a bunch of people whose brain is weird in the way our brain is weird. And I think that's a lot of fun.
+
+1:15:41 Sam: I want to end with this. So I was at this, I'll tell you a very, very, very quick story. I was at this LA tech meetup. First of all, our fans are, that sounds weird, but our listeners, they come in all shapes and sizes, man. All colors. I love it. Like, I
+
+1:15:55 Shaan: had like,
+
+1:15:56 Sam: dude, like I had this guy that looked like he was seven feet tall guy, like basketball player. And I thought he was like a famous guy and he comes up he goes total man and he gave me like you know like the black guy handshake of like whatever that is.
+
+1:16:07 Shaan: If you're a black guy you are a total man like you didn't even need to say it bro we know.
+
+1:16:12 Sam: Yeah he gave me like that that my handshake you know what I'm saying and And then I had this like 55-year-old woman who was with her kid at the airport say, what's up? And I just want to say, first of all, if you're a fan, thank you. And second of all, I can tell like walking by if someone listens or not, because if they're wearing like Lululemon ABC pants or like if they look like they go to like Columbia, like university, and they like make eye contact with you in a particular way, I could tell. And I would love for you to come and say, what's up, so long as it's like a quick, like, what's up total man. Like you can say something. By the
+
+1:16:44 Shaan: way, here's the etiquette. You come over, you fist pound, not handshake or hug. So let's do Nux, that's the way we do it. We're not trying to be palm to palm with anybody. And so give me the Nux. You can say, you can reference it, you can know small boy stuff, total man. You could use any of the isms that you want. That just means I know you and I'll give you the head nod back, like, yep, you're one of us. Take the selfie together. And then we kind of, you know, we keep the show rolling from there.
+
+1:17:19 Sam: But here's the shtick that I need to announce to people. And we get this in every episode because... Oftentimes, if they see me with my wife, they'll say what's up. If they see me with my in-laws or up to eat with friends, they won't say what's up. And every once in a while, they will. And it makes me feel so cool.
+
+1:17:37 Shaan: Oh, my God. Yeah. The more people I'm with, the more I need you to be over the top with it.
+
+1:17:42 Sam: Yes. Please. My wife doesn't
+
+1:17:43 Shaan: listen to this podcast. She never heard a single episode. So she doesn't think this is cool. She thinks this is me playing video games up in the bedroom right now. So only when she sees someone come up in person and then even, you know, I was with her mom there and they were like, wow, what? My dad
+
+1:17:59 Sam: was there
+
+1:17:59 Shaan: and he's like, he, My dad literally goes, he must have thought you're someone else. LAUGHTER
+
+1:18:09 Sam: We are famous enough that
+
+1:18:11 Sam: like our friends and family actually understand. And so If you see us out there, please
+
+1:18:17 Sam: come and say
+
+1:18:17 Shaan: hi. Particularly if
+
+1:18:19 Sam: we're with friends, you have
+
+1:18:21 Sam: to do it. That will make my day.
+
+1:18:23 Sam: As long as it's a short thing. I was out to eat and like three different guys. And when I was out
+
+1:18:27 Sam: to eat, I was at my coworkers said, what's up? And I played it off like, oh man, I can't go anywhere. You know what I mean?
+
+1:18:34 Sam: Like, and in my head, I'm like, I
+
+1:18:36 Shaan: hope there's a fourth. I hope there's a fourth. And so once,
+
+1:18:40 Sam: and my coworkers were like,
+
+1:18:42 Sam: does this happen all the time? I'm like, oh, you
+
+1:18:43 Shaan: know what I'm saying? The most embarrassing version of this. So when we were selling the milk road, I went to meet up with the guy who bought it, Kendall, at a coffee shop. And we're at the coffee shop for a bit. And I see someone kind of like looking, like I think they recognize me, but I'm not sure. And I'm like, come over, just come over right now. Because he doesn't, was it the pie guys? And I'm trying to do this deal. And I'm like, I think it would help if he felt like I'm a big deal. I was like, I think that'd be a little nice
+
+1:19:09 Sam: little nudge.
+
+1:19:10 Shaan: The guy doesn't come over, right? So we go outside, we say, I say bye, he starts walking away and the guy comes over and he's like Sean and I'm like yeah he goes hey man I literally go I was like oh Kendall I want you to be my I was like hey have you met Kendall and he goes like no
+
+1:19:30 Sam: and I
+
+1:19:31 Shaan: was like Kendall yeah this guy just, he listens to the pod. I just wanted you to, it didn't even make sense. And I was like, I forced it so bad, dude.
+
+1:19:42 Sam: So bad.
+
+1:19:43 Sam: Validate me, please. It's like,
+
+1:19:45 Shaan: How do you take a cool moment and make it the most lame? Was me being like, hey, wait, you didn't hear that he recognized me. Come here. Have you guys met? No, of course not.
+
+1:19:57 Sam: Oh my God. I, I've said that before. I'm like, hey, say what you said again, but good in front
+
+1:20:01 Sam: of my in-laws.
+
+1:20:04 Sam: So I just, this is the public service announcement. If you think, you know us, or if
+
+1:20:08 Sam: you think it's us, even if
+
+1:20:09 Sam: you only think it's kind of us, just take a chance and say, what's up and, feel free to be over at the top, Like,
+
+1:20:15 Sam: you
+
+1:20:15 Sam: know, it's awesome. We love it. It makes me feel good and it more so makes me look cool, which is what I care about more than anything. So anyway, that's awesome. That's the pod. Good episode.
+
+1:20:30 Sam: The world I know I could be what I want to. I put my all in it like no days off on the road let's travel never looking back you
